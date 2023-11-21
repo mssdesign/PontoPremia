@@ -4,6 +4,8 @@
 *~
 *.sw[mnpcod]
 .tmp
+.vscode
+.vs
 *.tmp
 *.tmp.*
 UserInterfaceState.xcuserstate
