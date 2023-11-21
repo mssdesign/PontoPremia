@@ -1,0 +1,39 @@
+<div class="pageHeader">
+  <div class="breadcrumb">
+    <button routerLink="/home" class="btn">
+      <ion-icon name="home"></ion-icon>
+    </button>
+    <ion-icon class="chevron" name="chevron-forward-outline"></ion-icon>
+    <span class="page"> <span class="message" *ngIf="showMessage"> {{ message }} </span> {{ pageTitle }} </span>
+  </div>
+
+  <div class="headerRight">
+    <div class="userOptions">
+      <div class="innerOptions">
+        <div class="userId">
+          <span class="userLabel">Usuário: </span>
+          <span class="userName">Anonimo</span>
+        </div>
+        <button class="profile">
+          <ion-icon name="person-outline" slot="start"></ion-icon>
+          Meu Perfil
+        </button>
+        <button class="logoff" (click)="logout()">
+          <ion-icon name="power-outline" slot="start"></ion-icon>
+          Sair
+        </button>
+      </div>
+    </div>
+
+    <div class="searchBar" *ngIf="!showMessage">
+      <input placeholder="Buscar" type="text" class="inputSearch" />
+      <button fill="outline" class="searchButton">
+        <ion-icon name="search-outline" color="primary"></ion-icon>
+      </button>
+      <button class="filter">
+        <ion-icon name="filter-outline" slot="start"></ion-icon>
+        Filtrar
+      </button>
+    </div>
+  </div>
+</div>

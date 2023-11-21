@@ -1,0 +1,9 @@
+<div>
+  <app-main-menu *ngIf="isLoggedIn"></app-main-menu>
+  <div class="ion-page" 
+       [ngClass]="{'logged-in-expanded': isLoggedIn && !isMenuMinimized, 
+                   'logged-in-minimized': isLoggedIn && isMenuMinimized}" 
+       id="main-content">
+    <ion-router-outlet></ion-router-outlet>
+  </div>
+</div>

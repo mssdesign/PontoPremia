@@ -1,0 +1,9 @@
+<ion-content>
+  <app-main-header></app-main-header>
+  <app-generic-table
+    [items]="bundles"
+    [config]="tableConfig"
+    (toggleChange)="handleToggleChange($event)"
+  >
+  </app-generic-table>
+</ion-content>

@@ -1,0 +1,17 @@
+<ion-card>
+  <ion-card-header>
+    <ion-card-subtitle> {{ title }} </ion-card-subtitle>
+    <ion-card-title>{{ data[data.length - 1] }}</ion-card-title>
+  </ion-card-header>
+  <ion-card-content>
+    <span [ngStyle]="{'color': borderColor}"> {{ percentage }} </span>
+    <canvas
+      baseChart
+      [datasets]="chartData"
+      [options]="chartOptions"
+      [type]="chartType"
+      [labels]="chartLabels"
+      [legend]="chartLegend"
+    ></canvas>
+  </ion-card-content>
+</ion-card>

@@ -1,0 +1,10 @@
+<ion-content>
+  <app-main-header></app-main-header>
+  <app-generic-table
+    [items]="worlds"
+    [config]="tableConfig"
+    [scoreMultipliers]="scoreMultipliers"
+    (updateValue)="updateValue($event)"
+  >
+  </app-generic-table>
+</ion-content>

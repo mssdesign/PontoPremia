@@ -1,0 +1,31 @@
+<div class="menu" [ngClass]="{ minimized: isMenuMinimized }">
+  <div class="list">
+    <div class="headerMenu">
+      <div class="logo" *ngIf="!isMenuMinimized" (click)="navigateTo('')">
+        Fideliza <span class="bold">AGRO.</span>
+      </div>
+      <ion-icon
+        name="arrow-back-outline"
+        (click)="toggleMenu()"
+        class="toggleMenu"
+        *ngIf="!isMenuMinimized"
+      ></ion-icon>
+      <ion-icon
+        name="menu-outline"
+        (click)="toggleMenu()"
+        class="toggleMenu"
+        *ngIf="isMenuMinimized"
+      ></ion-icon>
+    </div>
+    <div class="divider"></div>
+    <div
+      class="item"
+      *ngFor="let item of menuItems"
+      routerLinkActive="active"
+      [routerLink]="item.value"
+    >
+      <ion-icon [name]="item.icon"></ion-icon>
+      <p *ngIf="!isMenuMinimized">{{ item.label }}</p>
+    </div>
+  </div>
+</div>

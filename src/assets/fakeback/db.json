@@ -1,0 +1,7178 @@
+{
+  "users": [
+    {
+      "email": "joao@gmail.com",
+      "password": "$2a$12$FHtc6Gq.RmRPCG82LSz.nOz7x4Jy6FtKoJNZgI3X.Y8tbAppkOTti",
+      "id": 1,
+      "signup": {
+        "nome": "Joao da Silva Soares",
+        "cpf": "51062130363"
+      }
+    },
+    {
+      "email": "matheussilvasoares43@gmail.com",
+      "password": "$2a$12$5o2Yv8cpg7q3nDNjrfHiV.r8YHBjfk5AhwW7RuRstSAiAm5vRjZsm",
+      "id": 2,
+      "signup": {
+        "nome": "Matheus da Silva Soares",
+        "cpf": "51062130363"
+      }
+    },
+    {
+      "email": "teteu@gmail.com",
+      "password": "$2a$10$x4XsYoNV4szvYrTRH0E6a.InnbOL4Z2oGpRvTpQIqGlH0eS6T7cae",
+      "id": 3,
+      "signup": {
+        "nome": "Teteu da Silva Soares",
+        "cpf": "51062130363"
+      }
+    },
+    {
+      "email": "esthelarisseven7@gmail.com",
+      "password": "$2a$10$NM9ZwpnVsPoOapoOpipZbOBdveyAqw7dyQ2D6tq89JLMzE/Go8Zsq",
+      "signup": {
+        "nome": "Esther Larissa da Silva Soares",
+        "cpf": "51062130363"
+      },
+      "id": 4
+    }
+  ],
+  "chartData": [
+    {
+      "data": [
+        65,
+        59,
+        80,
+        81,
+        56,
+        40
+      ],
+      "borderColor": "#4bc0c0",
+      "label": "Clientes cadastrados"
+    },
+    {
+      "data": [
+        75,
+        49,
+        90,
+        71,
+        66,
+        50
+      ],
+      "borderColor": "#e17055",
+      "label": "Vendas realizadas"
+    },
+    {
+      "data": [
+        55,
+        69,
+        70,
+        91,
+        46,
+        60
+      ],
+      "borderColor": "#6c5ce7",
+      "label": "Produtos em estoque"
+    },
+    {
+      "data": [
+        85,
+        79,
+        60,
+        91,
+        66,
+        70
+      ],
+      "borderColor": "#00b894",
+      "label": "Funcionários ativos"
+    },
+    {
+      "data": [
+        45,
+        39,
+        100,
+        61,
+        76,
+        80
+      ],
+      "borderColor": "#fdcb6e",
+      "label": "Tickets abertos"
+    },
+    {
+      "data": [
+        95,
+        59,
+        50,
+        101,
+        56,
+        90
+      ],
+      "borderColor": "#d63031",
+      "label": "Pedidos pendentes"
+    },
+    {
+      "data": [
+        35,
+        49,
+        110,
+        71,
+        86,
+        100
+      ],
+      "borderColor": "#0984e3",
+      "label": "Feedbacks recebidos"
+    },
+    {
+      "data": [
+        105,
+        69,
+        40,
+        111,
+        46,
+        110
+      ],
+      "borderColor": "#74b9ff",
+      "label": "Metas atingidas"
+    }
+  ],
+  "products": [
+    {
+      "code": 5132189,
+      "product": "furadeira",
+      "world": "world A",
+      "category": "category X",
+      "points": 60,
+      "value": 500,
+      "status": false
+    },
+    {
+      "code": 8374921,
+      "product": "parafusadeira",
+      "world": "world B",
+      "category": "category Y",
+      "points": 40,
+      "value": 350,
+      "status": true
+    },
+    {
+      "code": 1928374,
+      "product": "serra elétrica",
+      "world": "world A",
+      "category": "category X",
+      "points": 75,
+      "value": 800,
+      "status": false
+    },
+    {
+      "code": 5678923,
+      "product": "martelo",
+      "world": "world C",
+      "category": "category Z",
+      "points": 20,
+      "value": 50,
+      "status": true
+    },
+    {
+      "code": 9876543,
+      "product": "chave de fenda",
+      "world": "world B",
+      "category": "category Y",
+      "points": 10,
+      "value": 20,
+      "status": true
+    },
+    {
+      "code": 3847562,
+      "product": "trena",
+      "world": "world A",
+      "category": "category X",
+      "points": 30,
+      "value": 75,
+      "status": false
+    },
+    {
+      "code": 6758492,
+      "product": "alicate",
+      "world": "world C",
+      "category": "category Z",
+      "points": 25,
+      "value": 60,
+      "status": false
+    },
+    {
+      "code": 1092837,
+      "product": "marreta",
+      "world": "world A",
+      "category": "category X",
+      "points": 50,
+      "value": 120,
+      "status": true
+    },
+    {
+      "code": 2345678,
+      "product": "serrote",
+      "world": "world B",
+      "category": "category Y",
+      "points": 35,
+      "value": 70,
+      "status": true
+    },
+    {
+      "code": 8765432,
+      "product": "escopeta",
+      "world": "world C",
+      "category": "category Z",
+      "points": 90,
+      "value": 1000,
+      "status": true
+    },
+    {
+      "code": 5132189,
+      "product": "furadeira",
+      "world": "world A",
+      "category": "category X",
+      "points": 60,
+      "value": 500,
+      "status": true
+    },
+    {
+      "code": 8374921,
+      "product": "parafusadeira",
+      "world": "world B",
+      "category": "category Y",
+      "points": 40,
+      "value": 350,
+      "status": true
+    },
+    {
+      "code": 1928374,
+      "product": "serra elétrica",
+      "world": "world A",
+      "category": "category X",
+      "points": 75,
+      "value": 800,
+      "status": true
+    },
+    {
+      "code": 5678923,
+      "product": "martelo",
+      "world": "world C",
+      "category": "category Z",
+      "points": 20,
+      "value": 50,
+      "status": true
+    },
+    {
+      "code": 9876543,
+      "product": "chave de fenda",
+      "world": "world B",
+      "category": "category Y",
+      "points": 10,
+      "value": 20,
+      "status": true
+    },
+    {
+      "code": 3847562,
+      "product": "trena",
+      "world": "world A",
+      "category": "category X",
+      "points": 30,
+      "value": 75,
+      "status": true
+    },
+    {
+      "code": 6758492,
+      "product": "alicate",
+      "world": "world C",
+      "category": "category Z",
+      "points": 25,
+      "value": 60,
+      "status": true
+    },
+    {
+      "code": 1092837,
+      "product": "marreta",
+      "world": "world A",
+      "category": "category X",
+      "points": 50,
+      "value": 120,
+      "status": true
+    },
+    {
+      "code": 2345678,
+      "product": "serrote",
+      "world": "world B",
+      "category": "category Y",
+      "points": 35,
+      "value": 70,
+      "status": true
+    },
+    {
+      "code": 8765432,
+      "product": "escopeta",
+      "world": "world C",
+      "category": "category Z",
+      "points": 90,
+      "value": 1000,
+      "status": true
+    },
+    {
+      "code": 5678923,
+      "product": "martelo",
+      "world": "world C",
+      "category": "category Z",
+      "points": 20,
+      "value": 50,
+      "status": false
+    },
+    {
+      "code": 9876543,
+      "product": "chave de fenda",
+      "world": "world B",
+      "category": "category Y",
+      "points": 10,
+      "value": 20,
+      "status": false
+    },
+    {
+      "code": 3847562,
+      "product": "trena",
+      "world": "world A",
+      "category": "category X",
+      "points": 30,
+      "value": 75,
+      "status": true
+    },
+    {
+      "code": 6758492,
+      "product": "alicate",
+      "world": "world C",
+      "category": "category Z",
+      "points": 25,
+      "value": 60,
+      "status": true
+    },
+    {
+      "code": 1092837,
+      "product": "marreta",
+      "world": "world A",
+      "category": "category X",
+      "points": 50,
+      "value": 120,
+      "status": true
+    },
+    {
+      "code": 2345678,
+      "product": "serrote",
+      "world": "world B",
+      "category": "category Y",
+      "points": 35,
+      "value": 70,
+      "status": true
+    },
+    {
+      "code": 8765432,
+      "product": "escopeta",
+      "world": "world C",
+      "category": "category Z",
+      "points": 90,
+      "value": 1000,
+      "status": true
+    },
+    {
+      "code": 5132189,
+      "product": "furadeira",
+      "world": "world A",
+      "category": "category X",
+      "points": 60,
+      "value": 500,
+      "status": true
+    },
+    {
+      "code": 8374921,
+      "product": "parafusadeira",
+      "world": "world B",
+      "category": "category Y",
+      "points": 40,
+      "value": 350,
+      "status": false
+    },
+    {
+      "code": 1928374,
+      "product": "serra elétrica",
+      "world": "world A",
+      "category": "category X",
+      "points": 75,
+      "value": 800,
+      "status": true
+    },
+    {
+      "code": 5678923,
+      "product": "martelo",
+      "world": "world C",
+      "category": "category Z",
+      "points": 20,
+      "value": 50,
+      "status": true
+    },
+    {
+      "code": 9876543,
+      "product": "chave de fenda",
+      "world": "world B",
+      "category": "category Y",
+      "points": 10,
+      "value": 20,
+      "status": true
+    },
+    {
+      "code": 3847562,
+      "product": "trena",
+      "world": "world A",
+      "category": "category X",
+      "points": 30,
+      "value": 75,
+      "status": true
+    },
+    {
+      "code": 6758492,
+      "product": "alicate",
+      "world": "world C",
+      "category": "category Z",
+      "points": 25,
+      "value": 60,
+      "status": true
+    },
+    {
+      "code": 1092837,
+      "product": "marreta",
+      "world": "world A",
+      "category": "category X",
+      "points": 50,
+      "value": 120,
+      "status": true
+    },
+    {
+      "code": 2345678,
+      "product": "serrote",
+      "world": "world B",
+      "category": "category Y",
+      "points": 35,
+      "value": 70,
+      "status": false
+    },
+    {
+      "code": 8765432,
+      "product": "escopeta",
+      "world": "world C",
+      "category": "category Z",
+      "points": 90,
+      "value": 1000,
+      "status": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 2,
+      "worldId": 2,
+      "name": "Pá",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 3,
+      "worldId": 1,
+      "name": "Serra Circular",
+      "scoreMultiplier": 5
+    },
+    {
+      "id": 4,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 5,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 6,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 7,
+      "worldId": 2,
+      "name": "Sacho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 8,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 9,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 10,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 11,
+      "worldId": 1,
+      "name": "Enxada",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 12,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 13,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 14,
+      "worldId": 2,
+      "name": "Pá",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 15,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 16,
+      "worldId": 2,
+      "name": "Pá",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 17,
+      "worldId": 2,
+      "name": "Pá",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 18,
+      "worldId": 2,
+      "name": "Escavadora",
+      "scoreMultiplier": 10
+    },
+    {
+      "id": 19,
+      "worldId": 2,
+      "name": "Sacho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 20,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 21,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 22,
+      "worldId": 2,
+      "name": "Sacho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 23,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 24,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 25,
+      "worldId": 2,
+      "name": "Alicate",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 26,
+      "worldId": 2,
+      "name": "Alicate",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 27,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 28,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 29,
+      "worldId": 1,
+      "name": "Serra Circular",
+      "scoreMultiplier": 5
+    },
+    {
+      "id": 30,
+      "worldId": 2,
+      "name": "Escavadora",
+      "scoreMultiplier": 10
+    },
+    {
+      "id": 31,
+      "worldId": 1,
+      "name": "Enxada",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 32,
+      "worldId": 2,
+      "name": "Sacho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 33,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 34,
+      "worldId": 2,
+      "name": "Pá",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 35,
+      "worldId": 1,
+      "name": "Serra Circular",
+      "scoreMultiplier": 5
+    },
+    {
+      "id": 36,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 37,
+      "worldId": 1,
+      "name": "Martelo",
+      "scoreMultiplier": 7
+    },
+    {
+      "id": 38,
+      "worldId": 2,
+      "name": "Sacho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 39,
+      "worldId": 1,
+      "name": "Enxada",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 40,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 41,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 42,
+      "worldId": 1,
+      "name": "Chave de Fenda",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 43,
+      "worldId": 1,
+      "name": "Enxada",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 44,
+      "worldId": 1,
+      "name": "Trator",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 45,
+      "worldId": 2,
+      "name": "Colheitadeira",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 46,
+      "worldId": 2,
+      "name": "Escavadora",
+      "scoreMultiplier": 10
+    },
+    {
+      "id": 47,
+      "worldId": 1,
+      "name": "Enxada",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 48,
+      "worldId": 2,
+      "name": "Alicate",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 49,
+      "worldId": 2,
+      "name": "Alicate",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 50,
+      "worldId": 1,
+      "name": "Martelo",
+      "scoreMultiplier": 7
+    }
+  ],
+  "prizes": [
+    {
+      "code": 6912160,
+      "productName": "Tijolo",
+      "category": "Construção",
+      "type": "smart",
+      "points": 346,
+      "quantity": "54 unidades",
+      "status": false
+    },
+    {
+      "code": 6107279,
+      "productName": "Reboco",
+      "category": "Construção",
+      "type": "smart",
+      "points": 603,
+      "quantity": "62 unidades",
+      "status": true
+    },
+    {
+      "code": 9582350,
+      "productName": "Semente de Tomate",
+      "category": "Construção",
+      "type": "smart",
+      "points": 179,
+      "quantity": "57 unidades",
+      "status": true
+    },
+    {
+      "code": 9312077,
+      "productName": "Inseticida",
+      "category": "Construção",
+      "type": "leo",
+      "points": 795,
+      "quantity": "58 unidades",
+      "status": false
+    },
+    {
+      "code": 3923507,
+      "productName": "Tinta",
+      "category": "Construção",
+      "type": "leo",
+      "points": 861,
+      "quantity": "19 unidades",
+      "status": true
+    },
+    {
+      "code": 2138741,
+      "productName": "Semente de Morango",
+      "category": "Construção",
+      "type": "smart",
+      "points": 77,
+      "quantity": "29 unidades",
+      "status": true
+    },
+    {
+      "code": 6852011,
+      "productName": "Betoneira",
+      "category": "Construção",
+      "type": "leo",
+      "points": 833,
+      "quantity": "49 unidades",
+      "status": true
+    },
+    {
+      "code": 3583848,
+      "productName": "Serra",
+      "category": "Construção",
+      "type": "smart",
+      "points": 371,
+      "quantity": "96 unidades",
+      "status": true
+    },
+    {
+      "code": 5101831,
+      "productName": "Semente de Soja",
+      "category": "Construção",
+      "type": "leo",
+      "points": 737,
+      "quantity": "17 unidades",
+      "status": false
+    },
+    {
+      "code": 1386977,
+      "productName": "Rodo",
+      "category": "Construção",
+      "type": "leo",
+      "points": 238,
+      "quantity": "100 unidades",
+      "status": true
+    },
+    {
+      "code": 3332328,
+      "productName": "Herbicida",
+      "category": "Construção",
+      "type": "leo",
+      "points": 251,
+      "quantity": "48 unidades",
+      "status": false
+    },
+    {
+      "code": 2384266,
+      "productName": "Semente de Milho",
+      "category": "Construção",
+      "type": "leo",
+      "points": 591,
+      "quantity": "8 unidades",
+      "status": true
+    },
+    {
+      "code": 6697694,
+      "productName": "Prego",
+      "category": "Construção",
+      "type": "smart",
+      "points": 594,
+      "quantity": "30 unidades",
+      "status": false
+    },
+    {
+      "code": 9954959,
+      "productName": "Fertilizante",
+      "category": "Construção",
+      "type": "leo",
+      "points": 86,
+      "quantity": "28 unidades",
+      "status": true
+    },
+    {
+      "code": 4628276,
+      "productName": "Betoneira",
+      "category": "Construção",
+      "type": "smart",
+      "points": 297,
+      "quantity": "16 unidades",
+      "status": false
+    },
+    {
+      "code": 8223182,
+      "productName": "Vassoura",
+      "category": "Construção",
+      "type": "smart",
+      "points": 911,
+      "quantity": "28 unidades",
+      "status": true
+    },
+    {
+      "code": 2511062,
+      "productName": "Madeira",
+      "category": "Construção",
+      "type": "smart",
+      "points": 783,
+      "quantity": "11 unidades",
+      "status": true
+    },
+    {
+      "code": 7483005,
+      "productName": "Reboco",
+      "category": "Construção",
+      "type": "smart",
+      "points": 525,
+      "quantity": "86 unidades",
+      "status": true
+    },
+    {
+      "code": 6775546,
+      "productName": "Semente de Abóbora",
+      "category": "Construção",
+      "type": "leo",
+      "points": 213,
+      "quantity": "27 unidades",
+      "status": true
+    },
+    {
+      "code": 2429680,
+      "productName": "Pesticida",
+      "category": "Construção",
+      "type": "smart",
+      "points": 884,
+      "quantity": "16 unidades",
+      "status": true
+    },
+    {
+      "code": 2741346,
+      "productName": "Cal",
+      "category": "Construção",
+      "type": "smart",
+      "points": 847,
+      "quantity": "52 unidades",
+      "status": true
+    },
+    {
+      "code": 7327111,
+      "productName": "Semente de Alface",
+      "category": "Construção",
+      "type": "smart",
+      "points": 904,
+      "quantity": "46 unidades",
+      "status": true
+    },
+    {
+      "code": 8182386,
+      "productName": "Madeira",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 25,
+      "quantity": "29 unidades",
+      "status": false
+    },
+    {
+      "code": 2280905,
+      "productName": "Azulejo",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 454,
+      "quantity": "75 unidades",
+      "status": false
+    },
+    {
+      "code": 2909423,
+      "productName": "Vassoura",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 460,
+      "quantity": "80 unidades",
+      "status": true
+    },
+    {
+      "code": 3855790,
+      "productName": "Cimento",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 883,
+      "quantity": "77 unidades",
+      "status": false
+    },
+    {
+      "code": 8027108,
+      "productName": "Parafuso",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 674,
+      "quantity": "1 unidades",
+      "status": false
+    },
+    {
+      "code": 7567852,
+      "productName": "Inseticida",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 448,
+      "quantity": "42 unidades",
+      "status": true
+    },
+    {
+      "code": 5282088,
+      "productName": "Semente de Abóbora",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 400,
+      "quantity": "4 unidades",
+      "status": false
+    },
+    {
+      "code": 7767694,
+      "productName": "Semente de Abóbora",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 87,
+      "quantity": "68 unidades",
+      "status": true
+    },
+    {
+      "code": 1049134,
+      "productName": "Régua de Alumínio",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 134,
+      "quantity": "20 unidades",
+      "status": false
+    },
+    {
+      "code": 3079476,
+      "productName": "Porca",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 449,
+      "quantity": "34 unidades",
+      "status": false
+    },
+    {
+      "code": 3568905,
+      "productName": "Semente de Morango",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 680,
+      "quantity": "93 unidades",
+      "status": true
+    },
+    {
+      "code": 4364605,
+      "productName": "Argamassa",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 702,
+      "quantity": "8 unidades",
+      "status": false
+    },
+    {
+      "code": 7593721,
+      "productName": "Porca",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 984,
+      "quantity": "52 unidades",
+      "status": true
+    },
+    {
+      "code": 9098310,
+      "productName": "Martelo",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 632,
+      "quantity": "5 unidades",
+      "status": true
+    },
+    {
+      "code": 1212378,
+      "productName": "Cal",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 694,
+      "quantity": "21 unidades",
+      "status": false
+    },
+    {
+      "code": 6282669,
+      "productName": "Reboco",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 676,
+      "quantity": "32 unidades",
+      "status": false
+    },
+    {
+      "code": 9742738,
+      "productName": "Verniz",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 549,
+      "quantity": "58 unidades",
+      "status": false
+    },
+    {
+      "code": 4107762,
+      "productName": "Martelo",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 886,
+      "quantity": "57 unidades",
+      "status": false
+    },
+    {
+      "code": 5396997,
+      "productName": "Telha",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 725,
+      "quantity": "97 unidades",
+      "status": true
+    },
+    {
+      "code": 3400126,
+      "productName": "Grão de Café",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 401,
+      "quantity": "35 unidades",
+      "status": true
+    },
+    {
+      "code": 5626928,
+      "productName": "Adubo",
+      "category": "Agricultura",
+      "type": "leo",
+      "points": 749,
+      "quantity": "87 unidades",
+      "status": false
+    },
+    {
+      "code": 4954615,
+      "productName": "Inseticida",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 746,
+      "quantity": "97 unidades",
+      "status": false
+    },
+    {
+      "code": 7082062,
+      "productName": "Régua de Alumínio",
+      "category": "Agricultura",
+      "type": "smart",
+      "points": 578,
+      "quantity": "53 unidades",
+      "status": true
+    }
+  ],
+  "scores": [
+    {
+      "professionalName": "Professional 46",
+      "store": "CropMaster Pro",
+      "saleDate": 1667005333,
+      "scoreDate": 1675865471,
+      "scoreValidity": 1672786292,
+      "products": [
+        {
+          "product": "Seeds Pack",
+          "quantity": 27,
+          "unitValue": 94.38,
+          "points": 54
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 21,
+          "unitValue": 431.53,
+          "points": 105
+        }
+      ],
+      "invoice": "HBE5BLYB2OZ9OPD",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 70",
+      "store": "FarmFresh Tools",
+      "saleDate": 1689662394,
+      "scoreDate": 1693661853,
+      "scoreValidity": 1689301324,
+      "products": [
+        {
+          "product": "Pesticide Spray",
+          "quantity": 40,
+          "unitValue": 265.21,
+          "points": 200
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 94,
+          "unitValue": 58.28,
+          "points": 846
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 98,
+          "unitValue": 65.38,
+          "points": 980
+        }
+      ],
+      "invoice": "H9DNBU6HS19JPY4",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 3",
+      "store": "Golden Harvests",
+      "saleDate": 1682790642,
+      "scoreDate": 1686503455,
+      "scoreValidity": 1686464847,
+      "products": [
+        {
+          "product": "Seeds Pack",
+          "quantity": 56,
+          "unitValue": 340.74,
+          "points": 112
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 40,
+          "unitValue": 38.34,
+          "points": 280
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 27,
+          "unitValue": 230.34,
+          "points": 81
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 42,
+          "unitValue": 40.18,
+          "points": 378
+        },
+        {
+          "product": "Tractor",
+          "quantity": 6,
+          "unitValue": 309.71,
+          "points": 48
+        }
+      ],
+      "invoice": "IAWQCWCW4P8FLIV",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 21",
+      "store": "Nature's Best",
+      "saleDate": 1687262026,
+      "scoreDate": 1675055811,
+      "scoreValidity": 1690502943,
+      "products": [
+        {
+          "product": "Tractor",
+          "quantity": 100,
+          "unitValue": 128.63,
+          "points": 600
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 9,
+          "unitValue": 246.54,
+          "points": 27
+        },
+        {
+          "product": "Harvesting Tool",
+          "quantity": 20,
+          "unitValue": 490.58,
+          "points": 60
+        }
+      ],
+      "invoice": "U7NB0LULG2LHKFS",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 64",
+      "store": "CropMaster Pro",
+      "saleDate": 1681183763,
+      "scoreDate": 1670444492,
+      "scoreValidity": 1681433671,
+      "products": [
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 68,
+          "unitValue": 388.07,
+          "points": 272
+        },
+        {
+          "product": "Watering System",
+          "quantity": 69,
+          "unitValue": 392.71,
+          "points": 414
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 75,
+          "unitValue": 305.84,
+          "points": 225
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 83,
+          "unitValue": 106.65,
+          "points": 747
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 30,
+          "unitValue": 455.64,
+          "points": 300
+        }
+      ],
+      "invoice": "CEG2BICMT0FGPPY",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 51",
+      "store": "Plow & Sow Marketplace",
+      "saleDate": 1680648936,
+      "scoreDate": 1685657810,
+      "scoreValidity": 1683779044,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 52,
+          "unitValue": 402.15,
+          "points": 104
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 24,
+          "unitValue": 132.13,
+          "points": 168
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 64,
+          "unitValue": 389.83,
+          "points": 384
+        },
+        {
+          "product": "Tractor",
+          "quantity": 86,
+          "unitValue": 142.96,
+          "points": 602
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 26,
+          "unitValue": 450.29,
+          "points": 156
+        }
+      ],
+      "invoice": "2R0BAGKAJIMK10M",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 37",
+      "store": "EcoGrow Essentials",
+      "saleDate": 1681412714,
+      "scoreDate": 1690066639,
+      "scoreValidity": 1672630517,
+      "products": [
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 5,
+          "unitValue": 189.85,
+          "points": 20
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 16,
+          "unitValue": 200.26,
+          "points": 160
+        }
+      ],
+      "invoice": "R075PPVRVH5OI8X",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 13",
+      "store": "Golden Harvests",
+      "saleDate": 1667378753,
+      "scoreDate": 1677767392,
+      "scoreValidity": 1693494722,
+      "products": [
+        {
+          "product": "Plow Machine",
+          "quantity": 52,
+          "unitValue": 34.1,
+          "points": 312
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 74,
+          "unitValue": 462.74,
+          "points": 74
+        }
+      ],
+      "invoice": "JIOWIJ89HNIH22B",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 19",
+      "store": "Plow & Sow Marketplace",
+      "saleDate": 1666052546,
+      "scoreDate": 1686515041,
+      "scoreValidity": 1694292492,
+      "products": [
+        {
+          "product": "Seeds Pack",
+          "quantity": 3,
+          "unitValue": 261.63,
+          "points": 15
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 57,
+          "unitValue": 407.56,
+          "points": 114
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 76,
+          "unitValue": 484.27,
+          "points": 684
+        }
+      ],
+      "invoice": "W2NT8YCT4YV34NS",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 37",
+      "store": "Golden Harvests",
+      "saleDate": 1677758490,
+      "scoreDate": 1682674766,
+      "scoreValidity": 1686637310,
+      "products": [
+        {
+          "product": "Pesticide Spray",
+          "quantity": 43,
+          "unitValue": 354.4,
+          "points": 215
+        }
+      ],
+      "invoice": "6YH76BWQBA73O1K",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 4",
+      "store": "CropMaster Pro",
+      "saleDate": 1692750548,
+      "scoreDate": 1692175184,
+      "scoreValidity": 1685842696,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 72,
+          "unitValue": 319.45,
+          "points": 216
+        },
+        {
+          "product": "Watering System",
+          "quantity": 47,
+          "unitValue": 193.57,
+          "points": 94
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 24,
+          "unitValue": 354.61,
+          "points": 144
+        }
+      ],
+      "invoice": "S2H3PLMIXGKYAZW",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 67",
+      "store": "GreenField Supplies",
+      "saleDate": 1668970868,
+      "scoreDate": 1675107258,
+      "scoreValidity": 1676168038,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 23,
+          "unitValue": 489.64,
+          "points": 207
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 48,
+          "unitValue": 416.58,
+          "points": 96
+        },
+        {
+          "product": "Tractor",
+          "quantity": 12,
+          "unitValue": 376.3,
+          "points": 96
+        }
+      ],
+      "invoice": "JK9MF15JR6A54ZV",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 99",
+      "store": "FarmFresh Tools",
+      "saleDate": 1666624974,
+      "scoreDate": 1693181746,
+      "scoreValidity": 1693350842,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 56,
+          "unitValue": 466.25,
+          "points": 112
+        },
+        {
+          "product": "Tractor",
+          "quantity": 95,
+          "unitValue": 171.79,
+          "points": 475
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 19,
+          "unitValue": 410.2,
+          "points": 76
+        }
+      ],
+      "invoice": "V3N6476D3Y6Y7TB",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 8",
+      "store": "Nature's Best",
+      "saleDate": 1672405500,
+      "scoreDate": 1675204453,
+      "scoreValidity": 1681452570,
+      "products": [
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 41,
+          "unitValue": 429.64,
+          "points": 82
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 5,
+          "unitValue": 463.82,
+          "points": 30
+        },
+        {
+          "product": "Tractor",
+          "quantity": 69,
+          "unitValue": 115.48,
+          "points": 345
+        }
+      ],
+      "invoice": "ZZT0N7ECLVHCGUL",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 50",
+      "store": "EcoGrow Essentials",
+      "saleDate": 1695066800,
+      "scoreDate": 1665970720,
+      "scoreValidity": 1669032141,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 8,
+          "unitValue": 99.22,
+          "points": 48
+        },
+        {
+          "product": "Watering System",
+          "quantity": 18,
+          "unitValue": 22.29,
+          "points": 126
+        }
+      ],
+      "invoice": "I4UIMBFNI7VX164",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 10",
+      "store": "EcoGrow Essentials",
+      "saleDate": 1687253520,
+      "scoreDate": 1695143126,
+      "scoreValidity": 1692002571,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 26,
+          "unitValue": 306.39,
+          "points": 156
+        }
+      ],
+      "invoice": "TFJU0H1THEDQ8XC",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 72",
+      "store": "EcoGrow Essentials",
+      "saleDate": 1687784894,
+      "scoreDate": 1693150853,
+      "scoreValidity": 1670284193,
+      "products": [
+        {
+          "product": "Seeds Pack",
+          "quantity": 77,
+          "unitValue": 446.48,
+          "points": 539
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 61,
+          "unitValue": 458.95,
+          "points": 305
+        }
+      ],
+      "invoice": "R706C3D6400ZM4G",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 17",
+      "store": "Earthwise Products",
+      "saleDate": 1691127760,
+      "scoreDate": 1685465390,
+      "scoreValidity": 1694052626,
+      "products": [
+        {
+          "product": "Plow Machine",
+          "quantity": 25,
+          "unitValue": 248.57,
+          "points": 175
+        },
+        {
+          "product": "Tractor",
+          "quantity": 30,
+          "unitValue": 112.65,
+          "points": 300
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 80,
+          "unitValue": 268.51,
+          "points": 80
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 5,
+          "unitValue": 43.71,
+          "points": 10
+        }
+      ],
+      "invoice": "22836CDZ0XXX9ZN",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 70",
+      "store": "CropMaster Pro",
+      "saleDate": 1695582234,
+      "scoreDate": 1688634579,
+      "scoreValidity": 1673454459,
+      "products": [
+        {
+          "product": "Tractor",
+          "quantity": 79,
+          "unitValue": 309.46,
+          "points": 553
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 68,
+          "unitValue": 344.69,
+          "points": 680
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 3,
+          "unitValue": 435.59,
+          "points": 3
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 71,
+          "unitValue": 144.05,
+          "points": 568
+        }
+      ],
+      "invoice": "CQO11EGCYQI31NZ",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 78",
+      "store": "AgriGoods Central",
+      "saleDate": 1688732281,
+      "scoreDate": 1691820611,
+      "scoreValidity": 1696346741,
+      "products": [
+        {
+          "product": "Tractor",
+          "quantity": 18,
+          "unitValue": 490.64,
+          "points": 180
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 24,
+          "unitValue": 407.82,
+          "points": 168
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 39,
+          "unitValue": 234.62,
+          "points": 39
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 77,
+          "unitValue": 139.25,
+          "points": 616
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 22,
+          "unitValue": 41.49,
+          "points": 220
+        }
+      ],
+      "invoice": "UOC7F2I4KRF2OC1",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 5",
+      "store": "BioBloom Suppliers",
+      "saleDate": 1684888311,
+      "scoreDate": 1684897811,
+      "scoreValidity": 1692805983,
+      "products": [
+        {
+          "product": "Plow Machine",
+          "quantity": 32,
+          "unitValue": 198.74,
+          "points": 64
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 11,
+          "unitValue": 133.7,
+          "points": 77
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 90,
+          "unitValue": 19.18,
+          "points": 900
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 20,
+          "unitValue": 390.69,
+          "points": 180
+        }
+      ],
+      "invoice": "RNQIVKSI36ZX2LU",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 17",
+      "store": "AgriGoods Central",
+      "saleDate": 1665763520,
+      "scoreDate": 1682943221,
+      "scoreValidity": 1691288633,
+      "products": [
+        {
+          "product": "Soil Enhancer",
+          "quantity": 23,
+          "unitValue": 199.39,
+          "points": 23
+        },
+        {
+          "product": "Harvesting Tool",
+          "quantity": 2,
+          "unitValue": 440.5,
+          "points": 18
+        },
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 9,
+          "unitValue": 481.78,
+          "points": 9
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 43,
+          "unitValue": 181.26,
+          "points": 86
+        },
+        {
+          "product": "Watering System",
+          "quantity": 62,
+          "unitValue": 448.34,
+          "points": 124
+        }
+      ],
+      "invoice": "HYJL3URLGHD5MUB",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 93",
+      "store": "GreenField Supplies",
+      "saleDate": 1682975120,
+      "scoreDate": 1693728064,
+      "scoreValidity": 1692530601,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 48,
+          "unitValue": 354.33,
+          "points": 96
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 81,
+          "unitValue": 392.05,
+          "points": 810
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 46,
+          "unitValue": 195.82,
+          "points": 276
+        },
+        {
+          "product": "Harvesting Tool",
+          "quantity": 66,
+          "unitValue": 259.17,
+          "points": 462
+        }
+      ],
+      "invoice": "GHNYCLAGOKCH18N",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 14",
+      "store": "GreenField Supplies",
+      "saleDate": 1694108986,
+      "scoreDate": 1673477576,
+      "scoreValidity": 1680984942,
+      "products": [
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 21,
+          "unitValue": 123.11,
+          "points": 84
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 7,
+          "unitValue": 174.47,
+          "points": 42
+        }
+      ],
+      "invoice": "AEP1K8IDBYWI6VD",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 98",
+      "store": "Nature's Best",
+      "saleDate": 1668566563,
+      "scoreDate": 1665203397,
+      "scoreValidity": 1677365411,
+      "products": [
+        {
+          "product": "Greenhouse Kit",
+          "quantity": 6,
+          "unitValue": 417.26,
+          "points": 36
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 47,
+          "unitValue": 274.91,
+          "points": 423
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 48,
+          "unitValue": 87.62,
+          "points": 288
+        },
+        {
+          "product": "Soil Enhancer",
+          "quantity": 56,
+          "unitValue": 225.28,
+          "points": 336
+        },
+        {
+          "product": "Tractor",
+          "quantity": 25,
+          "unitValue": 309.63,
+          "points": 25
+        }
+      ],
+      "invoice": "12XOK2EWRIGE5HN",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 23",
+      "store": "AgriGoods Central",
+      "saleDate": 1685683301,
+      "scoreDate": 1685223331,
+      "scoreValidity": 1684088715,
+      "products": [
+        {
+          "product": "Soil Enhancer",
+          "quantity": 56,
+          "unitValue": 33.91,
+          "points": 112
+        },
+        {
+          "product": "Harvesting Tool",
+          "quantity": 94,
+          "unitValue": 74.78,
+          "points": 846
+        },
+        {
+          "product": "Watering System",
+          "quantity": 67,
+          "unitValue": 233.94,
+          "points": 268
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 90,
+          "unitValue": 171.77,
+          "points": 900
+        }
+      ],
+      "invoice": "4SU22QPEL4KNW9Q",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 1",
+      "store": "Golden Harvests",
+      "saleDate": 1673163337,
+      "scoreDate": 1679162361,
+      "scoreValidity": 1689950042,
+      "products": [
+        {
+          "product": "Plow Machine",
+          "quantity": 47,
+          "unitValue": 106.54,
+          "points": 235
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 36,
+          "unitValue": 178.2,
+          "points": 144
+        },
+        {
+          "product": "Seeds Pack",
+          "quantity": 15,
+          "unitValue": 333.22,
+          "points": 60
+        }
+      ],
+      "invoice": "UV6AZLP73QTV4YS",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 64",
+      "store": "FarmFresh Tools",
+      "saleDate": 1689855104,
+      "scoreDate": 1694585806,
+      "scoreValidity": 1676397120,
+      "products": [
+        {
+          "product": "Harvesting Tool",
+          "quantity": 9,
+          "unitValue": 301.64,
+          "points": 54
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 80,
+          "unitValue": 408.96,
+          "points": 800
+        },
+        {
+          "product": "Tractor",
+          "quantity": 27,
+          "unitValue": 231.54,
+          "points": 135
+        }
+      ],
+      "invoice": "IUUPGSADWQM2YNG",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 60",
+      "store": "GreenField Supplies",
+      "saleDate": 1677035412,
+      "scoreDate": 1686212267,
+      "scoreValidity": 1688546065,
+      "products": [
+        {
+          "product": "Seeds Pack",
+          "quantity": 66,
+          "unitValue": 287.36,
+          "points": 66
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 79,
+          "unitValue": 311.76,
+          "points": 79
+        }
+      ],
+      "invoice": "A5LKY67E4AU6F51",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 14",
+      "store": "Earthwise Products",
+      "saleDate": 1675187914,
+      "scoreDate": 1668015891,
+      "scoreValidity": 1680247151,
+      "products": [
+        {
+          "product": "Watering System",
+          "quantity": 51,
+          "unitValue": 171.59,
+          "points": 102
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 36,
+          "unitValue": 422.24,
+          "points": 324
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 34,
+          "unitValue": 47.6,
+          "points": 102
+        }
+      ],
+      "invoice": "D4Q3M5X3A8IAC1D",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 76",
+      "store": "Plow & Sow Marketplace",
+      "saleDate": 1683990045,
+      "scoreDate": 1685050942,
+      "scoreValidity": 1694474459,
+      "products": [
+        {
+          "product": "Watering System",
+          "quantity": 30,
+          "unitValue": 197.28,
+          "points": 150
+        },
+        {
+          "product": "Organic Fertilizer",
+          "quantity": 40,
+          "unitValue": 479.11,
+          "points": 360
+        }
+      ],
+      "invoice": "OP0GVRXK83E8JTJ",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 7",
+      "store": "EcoGrow Essentials",
+      "saleDate": 1683889392,
+      "scoreDate": 1675845336,
+      "scoreValidity": 1696557781,
+      "products": [
+        {
+          "product": "Tractor",
+          "quantity": 23,
+          "unitValue": 173.71,
+          "points": 23
+        },
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 77,
+          "unitValue": 158.06,
+          "points": 154
+        },
+        {
+          "product": "Pesticide Spray",
+          "quantity": 49,
+          "unitValue": 396.89,
+          "points": 49
+        }
+      ],
+      "invoice": "ANXLCSN7B9V7VGN",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 13",
+      "store": "Plow & Sow Marketplace",
+      "saleDate": 1666228548,
+      "scoreDate": 1673134902,
+      "scoreValidity": 1688387451,
+      "products": [
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 21,
+          "unitValue": 374.09,
+          "points": 210
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 35,
+          "unitValue": 56.43,
+          "points": 35
+        },
+        {
+          "product": "Plow Machine",
+          "quantity": 56,
+          "unitValue": 191.54,
+          "points": 560
+        }
+      ],
+      "invoice": "TRLKDZH8L8OMCDQ",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 63",
+      "store": "GreenField Supplies",
+      "saleDate": 1669187120,
+      "scoreDate": 1686043105,
+      "scoreValidity": 1676909257,
+      "products": [
+        {
+          "product": "Irrigation Pipe",
+          "quantity": 94,
+          "unitValue": 127.62,
+          "points": 846
+        },
+        {
+          "product": "Harvesting Tool",
+          "quantity": 79,
+          "unitValue": 138.16,
+          "points": 632
+        }
+      ],
+      "invoice": "FH38RTNDWFEI7D1",
+      "status": true
+    },
+    {
+      "professionalName": "Professional 19",
+      "store": "Plow & Sow Marketplace",
+      "saleDate": 1694829326,
+      "scoreDate": 1691255357,
+      "scoreValidity": 1680478593,
+      "products": [
+        {
+          "product": "Soil Enhancer",
+          "quantity": 64,
+          "unitValue": 36.57,
+          "points": 448
+        }
+      ],
+      "invoice": "32KGFOA9G4PV8SE",
+      "status": true
+    }
+  ],
+  "campaigns": [
+    {
+      "name": "Campanha1",
+      "timePeriod": 37,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        }
+      ],
+      "worlds": [
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha2",
+      "timePeriod": 43,
+      "products": [
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha3",
+      "timePeriod": 56,
+      "products": [
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        }
+      ],
+      "worlds": [
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha4",
+      "timePeriod": 5,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha5",
+      "timePeriod": 60,
+      "products": [
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        }
+      ],
+      "worlds": [
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha6",
+      "timePeriod": 17,
+      "products": [
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        }
+      ],
+      "worlds": [
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha7",
+      "timePeriod": 33,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        }
+      ],
+      "worlds": [
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha8",
+      "timePeriod": 58,
+      "products": [
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha9",
+      "timePeriod": 23,
+      "products": [
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha10",
+      "timePeriod": 26,
+      "products": [
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        }
+      ],
+      "worlds": [
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha11",
+      "timePeriod": 32,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        }
+      ],
+      "worlds": [
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha12",
+      "timePeriod": 25,
+      "products": [
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        }
+      ],
+      "worlds": [
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha13",
+      "timePeriod": 19,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha14",
+      "timePeriod": 25,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        }
+      ],
+      "worlds": [
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha15",
+      "timePeriod": 7,
+      "products": [
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    },
+    {
+      "name": "Campanha16",
+      "timePeriod": 12,
+      "products": [
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha17",
+      "timePeriod": 6,
+      "products": [
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        }
+      ],
+      "worlds": [
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha18",
+      "timePeriod": 41,
+      "products": [
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        }
+      ],
+      "worlds": [
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha19",
+      "timePeriod": 15,
+      "products": [
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 2,
+          "product": "Produto2",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 7,
+          "value": "151.15",
+          "status": false
+        },
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 4,
+          "product": "Produto4",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 41,
+          "value": "720.37",
+          "status": true
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 2,
+          "worldId": 2,
+          "name": "Categoria2",
+          "scoreMultiplier": 2.49889701004394
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        }
+      ],
+      "worlds": [
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 4,
+          "name": "Mundo4",
+          "scoreMultiplier": 4.963279338002587
+        },
+        {
+          "id": 2,
+          "name": "Mundo2",
+          "scoreMultiplier": 1.1579005212077083
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio2",
+          "identifier": "ID2",
+          "address": "Endereco2, Cidade2, Estado2",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio5",
+          "identifier": "ID5",
+          "address": "Endereco5, Cidade5, Estado5",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio1",
+          "identifier": "ID1",
+          "address": "Endereco1, Cidade1, Estado1",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        },
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        }
+      ],
+      "status": true
+    },
+    {
+      "name": "Campanha20",
+      "timePeriod": 32,
+      "products": [
+        {
+          "code": 1,
+          "product": "Produto1",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 88,
+          "value": "145.28",
+          "status": false
+        },
+        {
+          "code": 3,
+          "product": "Produto3",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 1,
+          "value": "599.45",
+          "status": true
+        },
+        {
+          "code": 5,
+          "product": "Produto5",
+          "world": "Mundo1",
+          "category": "Categoria1",
+          "points": 81,
+          "value": "228.14",
+          "status": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "worldId": 3,
+          "name": "Categoria3",
+          "scoreMultiplier": 3.3016191749772688
+        },
+        {
+          "id": 4,
+          "worldId": 4,
+          "name": "Categoria4",
+          "scoreMultiplier": 4.496803840693348
+        },
+        {
+          "id": 5,
+          "worldId": 5,
+          "name": "Categoria5",
+          "scoreMultiplier": 3.0333651394715955
+        },
+        {
+          "id": 1,
+          "worldId": 1,
+          "name": "Categoria1",
+          "scoreMultiplier": 1.6787997597926445
+        }
+      ],
+      "worlds": [
+        {
+          "id": 5,
+          "name": "Mundo5",
+          "scoreMultiplier": 2.3378602672314366
+        },
+        {
+          "id": 3,
+          "name": "Mundo3",
+          "scoreMultiplier": 1.4179968591919945
+        },
+        {
+          "id": 1,
+          "name": "Mundo1",
+          "scoreMultiplier": 4.044777546786255
+        }
+      ],
+      "region": "Sudeste",
+      "branches": [
+        {
+          "businessName": "Negocio4",
+          "identifier": "ID4",
+          "address": "Endereco4, Cidade4, Estado4",
+          "region": "Sudeste",
+          "status": false
+        },
+        {
+          "businessName": "Negocio3",
+          "identifier": "ID3",
+          "address": "Endereco3, Cidade3, Estado3",
+          "region": "Sudeste",
+          "status": true
+        }
+      ],
+      "status": false
+    }
+  ],
+  "gifts": [
+    {
+      "id": 372648,
+      "seller": "Miguel Carvalho",
+      "store": "Reforma Rápida",
+      "city": "Porto Alegre",
+      "rescuedProduct": "Argamassa",
+      "quantity": 16,
+      "balanceAtTime": 1534,
+      "pointsUsed": 2478,
+      "status": "bloqueado",
+      "rescueDate": 1698271419,
+      "deliveryEstimate": 1699221819,
+      "deliveryDate": 1701641019,
+      "approved": true
+    },
+    {
+      "id": 437805,
+      "seller": "Miguel Pereira",
+      "store": "ConstruShop",
+      "city": "São Paulo",
+      "rescuedProduct": "Torneira",
+      "quantity": 92,
+      "balanceAtTime": 1823,
+      "pointsUsed": 3044,
+      "status": "bloqueado",
+      "rescueDate": 1697061819,
+      "deliveryEstimate": 1698098619,
+      "deliveryDate": 1698962619,
+      "approved": false
+    },
+    {
+      "id": 463271,
+      "seller": "Carlos Costa",
+      "store": "Materiais Top",
+      "city": "Fortaleza",
+      "rescuedProduct": "Tijolo",
+      "quantity": 96,
+      "balanceAtTime": 1720,
+      "pointsUsed": 1814,
+      "status": "bloqueado",
+      "rescueDate": 1697148219,
+      "deliveryEstimate": 1697234619,
+      "deliveryDate": 1699826619,
+      "approved": false
+    },
+    {
+      "id": 639748,
+      "seller": "João Costa",
+      "store": "Bazar da Construção",
+      "city": "São Paulo",
+      "rescuedProduct": "Vaso Sanitário",
+      "quantity": 99,
+      "balanceAtTime": 1177,
+      "pointsUsed": 4197,
+      "status": "bloqueado",
+      "rescueDate": 1697234619,
+      "deliveryEstimate": 1698098619,
+      "deliveryDate": 1700690619,
+      "approved": true
+    },
+    {
+      "id": 829703,
+      "seller": "Miguel Carvalho",
+      "store": "Materiais Top",
+      "city": "Recife",
+      "rescuedProduct": "Cimento",
+      "quantity": 48,
+      "balanceAtTime": 3361,
+      "pointsUsed": 1839,
+      "status": "bloqueado",
+      "rescueDate": 1698271419,
+      "deliveryEstimate": 1699999419,
+      "deliveryDate": 1700777019,
+      "approved": true
+    },
+    {
+      "id": 712946,
+      "seller": "Fernanda Ferreira",
+      "store": "ConstruShop",
+      "city": "Curitiba",
+      "rescuedProduct": "Vaso Sanitário",
+      "quantity": 28,
+      "balanceAtTime": 1030,
+      "pointsUsed": 1844,
+      "status": "liberado",
+      "rescueDate": 1698271419,
+      "deliveryEstimate": 1700690619,
+      "deliveryDate": 1702591419,
+      "approved": true
+    },
+    {
+      "id": 461752,
+      "seller": "Luisa Santos",
+      "store": "Materiais Top",
+      "city": "Belo Horizonte",
+      "rescuedProduct": "Telha",
+      "quantity": 38,
+      "balanceAtTime": 4774,
+      "pointsUsed": 3258,
+      "status": "bloqueado",
+      "rescueDate": 1696629819,
+      "deliveryEstimate": 1697407419,
+      "deliveryDate": 1698962619,
+      "approved": false
+    },
+    {
+      "id": 234971,
+      "seller": "Miguel Oliveira",
+      "store": "Reforma Rápida",
+      "city": "Fortaleza",
+      "rescuedProduct": "Telha",
+      "quantity": 16,
+      "balanceAtTime": 4035,
+      "pointsUsed": 2689,
+      "status": "bloqueado",
+      "rescueDate": 1697666619,
+      "deliveryEstimate": 1697925819,
+      "deliveryDate": 1699394619,
+      "approved": false
+    },
+    {
+      "id": 978306,
+      "seller": "Miguel Carvalho",
+      "store": "Bazar da Construção",
+      "city": "Curitiba",
+      "rescuedProduct": "Telha",
+      "quantity": 41,
+      "balanceAtTime": 2420,
+      "pointsUsed": 4224,
+      "status": "liberado",
+      "rescueDate": 1696802619,
+      "deliveryEstimate": 1697925819,
+      "deliveryDate": 1700431419,
+      "approved": true
+    },
+    {
+      "id": 18694,
+      "seller": "Julia Oliveira",
+      "store": "ConstruShop",
+      "city": "Fortaleza",
+      "rescuedProduct": "Areia",
+      "quantity": 63,
+      "balanceAtTime": 736,
+      "pointsUsed": 230,
+      "status": "liberado",
+      "rescueDate": 1696975419,
+      "deliveryEstimate": 1698876219,
+      "deliveryDate": 1700085819,
+      "approved": false
+    },
+    {
+      "id": 157643,
+      "seller": "Miguel Lima",
+      "store": "Reforma Rápida",
+      "city": "Fortaleza",
+      "rescuedProduct": "Rejunte",
+      "quantity": 1,
+      "balanceAtTime": 3067,
+      "pointsUsed": 648,
+      "status": "bloqueado",
+      "rescueDate": 1697148219,
+      "deliveryEstimate": 1697925819,
+      "deliveryDate": 1699394619,
+      "approved": true
+    },
+    {
+      "id": 842169,
+      "seller": "Maria Oliveira",
+      "store": "Materiais Modernos",
+      "city": "Rio de Janeiro",
+      "rescuedProduct": "Torneira",
+      "quantity": 43,
+      "balanceAtTime": 1601,
+      "pointsUsed": 4640,
+      "status": "bloqueado",
+      "rescueDate": 1697321019,
+      "deliveryEstimate": 1698876219,
+      "deliveryDate": 1700777019,
+      "approved": false
+    },
+    {
+      "id": 47195,
+      "seller": "Ana Costa",
+      "store": "Depósito Central",
+      "city": "Curitiba",
+      "rescuedProduct": "Tinta",
+      "quantity": 17,
+      "balanceAtTime": 1822,
+      "pointsUsed": 787,
+      "status": "liberado",
+      "rescueDate": 1698444219,
+      "deliveryEstimate": 1699481019,
+      "deliveryDate": 1699567419,
+      "approved": false
+    },
+    {
+      "id": 708965,
+      "seller": "João Ferreira",
+      "store": "Depósito Central",
+      "city": "Porto Alegre",
+      "rescuedProduct": "Telha",
+      "quantity": 90,
+      "balanceAtTime": 1942,
+      "pointsUsed": 3729,
+      "status": "bloqueado",
+      "rescueDate": 1697839419,
+      "deliveryEstimate": 1699913019,
+      "deliveryDate": 1700345019,
+      "approved": false
+    },
+    {
+      "id": 351042,
+      "seller": "Maria Santos",
+      "store": "Reforma Rápida",
+      "city": "Manaus",
+      "rescuedProduct": "Cimento",
+      "quantity": 14,
+      "balanceAtTime": 438,
+      "pointsUsed": 2675,
+      "status": "bloqueado",
+      "rescueDate": 1697407419,
+      "deliveryEstimate": 1697925819,
+      "deliveryDate": 1700258619,
+      "approved": false
+    },
+    {
+      "id": 206718,
+      "seller": "Julia Santos",
+      "store": "Materiais Modernos",
+      "city": "Manaus",
+      "rescuedProduct": "Piso Cerâmico",
+      "quantity": 23,
+      "balanceAtTime": 1130,
+      "pointsUsed": 744,
+      "status": "bloqueado",
+      "rescueDate": 1696975419,
+      "deliveryEstimate": 1697234619,
+      "deliveryDate": 1698271419,
+      "approved": false
+    },
+    {
+      "id": 609312,
+      "seller": "Ana Pereira",
+      "store": "Reforma Rápida",
+      "city": "Porto Alegre",
+      "rescuedProduct": "Telha",
+      "quantity": 48,
+      "balanceAtTime": 4609,
+      "pointsUsed": 4832,
+      "status": "liberado",
+      "rescueDate": 1698271419,
+      "deliveryEstimate": 1700431419,
+      "deliveryDate": 1701295419,
+      "approved": true
+    },
+    {
+      "id": 729308,
+      "seller": "João Oliveira",
+      "store": "ConstruShop",
+      "city": "São Paulo",
+      "rescuedProduct": "Areia",
+      "quantity": 32,
+      "balanceAtTime": 3966,
+      "pointsUsed": 2200,
+      "status": "bloqueado",
+      "rescueDate": 1697753019,
+      "deliveryEstimate": 1698703419,
+      "deliveryDate": 1699567419,
+      "approved": true
+    },
+    {
+      "id": 713985,
+      "seller": "Miguel Lima",
+      "store": "Construção & Cia",
+      "city": "Salvador",
+      "rescuedProduct": "Vaso Sanitário",
+      "quantity": 28,
+      "balanceAtTime": 4283,
+      "pointsUsed": 2631,
+      "status": "liberado",
+      "rescueDate": 1696197819,
+      "deliveryEstimate": 1698357819,
+      "deliveryDate": 1699826619,
+      "approved": true
+    },
+    {
+      "id": 492785,
+      "seller": "Fernanda Pereira",
+      "store": "Reforma Fácil",
+      "city": "Manaus",
+      "rescuedProduct": "Cimento",
+      "quantity": 31,
+      "balanceAtTime": 3112,
+      "pointsUsed": 86,
+      "status": "bloqueado",
+      "rescueDate": 1696629819,
+      "deliveryEstimate": 1698789819,
+      "deliveryDate": 1700863419,
+      "approved": true
+    },
+    {
+      "id": 569172,
+      "seller": "Maria Lima",
+      "store": "Reforma Rápida",
+      "city": "Belo Horizonte",
+      "rescuedProduct": "Argamassa",
+      "quantity": 27,
+      "balanceAtTime": 1560,
+      "pointsUsed": 1032,
+      "status": "liberado",
+      "rescueDate": 1698185019,
+      "deliveryEstimate": 1699567419,
+      "deliveryDate": 1701209019,
+      "approved": true
+    },
+    {
+      "id": 517362,
+      "seller": "João Costa",
+      "store": "Bazar da Construção",
+      "city": "Recife",
+      "rescuedProduct": "Telha",
+      "quantity": 23,
+      "balanceAtTime": 3390,
+      "pointsUsed": 3775,
+      "status": "bloqueado",
+      "rescueDate": 1696111419,
+      "deliveryEstimate": 1696197819,
+      "deliveryDate": 1698789819,
+      "approved": true
+    },
+    {
+      "id": 261409,
+      "seller": "João Oliveira",
+      "store": "Materiais Top",
+      "city": "Porto Alegre",
+      "rescuedProduct": "Areia",
+      "quantity": 14,
+      "balanceAtTime": 3879,
+      "pointsUsed": 3992,
+      "status": "liberado",
+      "rescueDate": 1696716219,
+      "deliveryEstimate": 1697234619,
+      "deliveryDate": 1698617019,
+      "approved": false
+    },
+    {
+      "id": 610239,
+      "seller": "Luisa Oliveira",
+      "store": "Construção & Cia",
+      "city": "Brasília",
+      "rescuedProduct": "Torneira",
+      "quantity": 62,
+      "balanceAtTime": 2857,
+      "pointsUsed": 4623,
+      "status": "bloqueado",
+      "rescueDate": 1697580219,
+      "deliveryEstimate": 1699653819,
+      "deliveryDate": 1701641019,
+      "approved": false
+    },
+    {
+      "id": 821074,
+      "seller": "Maria Oliveira",
+      "store": "Construção & Cia",
+      "city": "Recife",
+      "rescuedProduct": "Argamassa",
+      "quantity": 45,
+      "balanceAtTime": 2456,
+      "pointsUsed": 590,
+      "status": "bloqueado",
+      "rescueDate": 1697061819,
+      "deliveryEstimate": 1697148219,
+      "deliveryDate": 1697925819,
+      "approved": false
+    },
+    {
+      "id": 214568,
+      "seller": "Luisa Silva",
+      "store": "Depósito Central",
+      "city": "Brasília",
+      "rescuedProduct": "Cimento",
+      "quantity": 33,
+      "balanceAtTime": 1361,
+      "pointsUsed": 3385,
+      "status": "liberado",
+      "rescueDate": 1696716219,
+      "deliveryEstimate": 1697666619,
+      "deliveryDate": 1698789819,
+      "approved": false
+    },
+    {
+      "id": 810423,
+      "seller": "Gabriel Oliveira",
+      "store": "Reforma Rápida",
+      "city": "Rio de Janeiro",
+      "rescuedProduct": "Argamassa",
+      "quantity": 17,
+      "balanceAtTime": 2758,
+      "pointsUsed": 1683,
+      "status": "bloqueado",
+      "rescueDate": 1696889019,
+      "deliveryEstimate": 1699221819,
+      "deliveryDate": 1700431419,
+      "approved": false
+    },
+    {
+      "id": 92148,
+      "seller": "Carlos Santos",
+      "store": "Materiais Modernos",
+      "city": "Recife",
+      "rescuedProduct": "Argamassa",
+      "quantity": 79,
+      "balanceAtTime": 2136,
+      "pointsUsed": 4288,
+      "status": "bloqueado",
+      "rescueDate": 1696543419,
+      "deliveryEstimate": 1699135419,
+      "deliveryDate": 1700517819,
+      "approved": true
+    },
+    {
+      "id": 287516,
+      "seller": "Ana Costa",
+      "store": "Bazar da Construção",
+      "city": "Manaus",
+      "rescuedProduct": "Argamassa",
+      "quantity": 92,
+      "balanceAtTime": 4115,
+      "pointsUsed": 2956,
+      "status": "bloqueado",
+      "rescueDate": 1697839419,
+      "deliveryEstimate": 1699049019,
+      "deliveryDate": 1701295419,
+      "approved": false
+    },
+    {
+      "id": 510724,
+      "seller": "Miguel Carvalho",
+      "store": "Materiais Top",
+      "city": "Curitiba",
+      "rescuedProduct": "Argamassa",
+      "quantity": 20,
+      "balanceAtTime": 4664,
+      "pointsUsed": 91,
+      "status": "bloqueado",
+      "rescueDate": 1698530619,
+      "deliveryEstimate": 1698617019,
+      "deliveryDate": 1699826619,
+      "approved": true
+    },
+    {
+      "id": 893062,
+      "seller": "Julia Pereira",
+      "store": "Casa & Construção",
+      "city": "Recife",
+      "rescuedProduct": "Tinta",
+      "quantity": 68,
+      "balanceAtTime": 2045,
+      "pointsUsed": 4620,
+      "status": "bloqueado",
+      "rescueDate": 1697407419,
+      "deliveryEstimate": 1699221819,
+      "deliveryDate": 1699308219,
+      "approved": false
+    },
+    {
+      "id": 421390,
+      "seller": "Gabriel Santos",
+      "store": "Reforma Rápida",
+      "city": "Rio de Janeiro",
+      "rescuedProduct": "Piso Cerâmico",
+      "quantity": 17,
+      "balanceAtTime": 2521,
+      "pointsUsed": 1155,
+      "status": "bloqueado",
+      "rescueDate": 1696802619,
+      "deliveryEstimate": 1697580219,
+      "deliveryDate": 1697666619,
+      "approved": false
+    },
+    {
+      "id": 649180,
+      "seller": "Ana Oliveira",
+      "store": "Reforma Rápida",
+      "city": "Brasília",
+      "rescuedProduct": "Tinta",
+      "quantity": 67,
+      "balanceAtTime": 3079,
+      "pointsUsed": 1982,
+      "status": "bloqueado",
+      "rescueDate": 1697321019,
+      "deliveryEstimate": 1697493819,
+      "deliveryDate": 1699913019,
+      "approved": false
+    },
+    {
+      "id": 641275,
+      "seller": "Maria Oliveira",
+      "store": "Reforma Rápida",
+      "city": "Recife",
+      "rescuedProduct": "Telha",
+      "quantity": 78,
+      "balanceAtTime": 1030,
+      "pointsUsed": 4446,
+      "status": "bloqueado",
+      "rescueDate": 1696457019,
+      "deliveryEstimate": 1697407419,
+      "deliveryDate": 1699481019,
+      "approved": false
+    },
+    {
+      "id": 945267,
+      "seller": "Ana Pereira",
+      "store": "Depósito Central",
+      "city": "Manaus",
+      "rescuedProduct": "Tinta",
+      "quantity": 13,
+      "balanceAtTime": 3014,
+      "pointsUsed": 1684,
+      "status": "bloqueado",
+      "rescueDate": 1696889019,
+      "deliveryEstimate": 1697925819,
+      "deliveryDate": 1700345019,
+      "approved": false
+    },
+    {
+      "id": 589137,
+      "seller": "Maria Ferreira",
+      "store": "Reforma Fácil",
+      "city": "Brasília",
+      "rescuedProduct": "Cimento",
+      "quantity": 98,
+      "balanceAtTime": 2462,
+      "pointsUsed": 1069,
+      "status": "bloqueado",
+      "rescueDate": 1698098619,
+      "deliveryEstimate": 1698530619,
+      "deliveryDate": 1699049019,
+      "approved": false
+    },
+    {
+      "id": 968435,
+      "seller": "Julia Carvalho",
+      "store": "Depósito Central",
+      "city": "Fortaleza",
+      "rescuedProduct": "Torneira",
+      "quantity": 64,
+      "balanceAtTime": 365,
+      "pointsUsed": 4808,
+      "status": "liberado",
+      "rescueDate": 1697493819,
+      "deliveryEstimate": 1697580219,
+      "deliveryDate": 1698357819,
+      "approved": true
+    },
+    {
+      "id": 568049,
+      "seller": "Ricardo Lima",
+      "store": "Materiais Top",
+      "city": "Rio de Janeiro",
+      "rescuedProduct": "Tijolo",
+      "quantity": 38,
+      "balanceAtTime": 618,
+      "pointsUsed": 3560,
+      "status": "bloqueado",
+      "rescueDate": 1698098619,
+      "deliveryEstimate": 1699653819,
+      "deliveryDate": 1701295419,
+      "approved": true
+    }
+  ],
+  "activeUsers": [
+    {
+      "name": "Alice",
+      "email": "alice@ficticio.com",
+      "position": "Assistente Adminstrativo",
+      "permission": "Editor",
+      "status": false
+    },
+    {
+      "name": "Bruno",
+      "email": "bruno@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Carla",
+      "email": "carla@ficticio.com",
+      "position": "Gerente de Loja",
+      "permission": "Editor",
+      "status": true
+    },
+    {
+      "name": "Diego",
+      "email": "diego@ficticio.com",
+      "position": "Operador de Empilhadeira",
+      "permission": "Administrador",
+      "status": false
+    },
+    {
+      "name": "Eva",
+      "email": "eva@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Fábio",
+      "email": "fábio@ficticio.com",
+      "position": "Operador de Empilhadeira",
+      "permission": "Convidado",
+      "status": false
+    },
+    {
+      "name": "Gisele",
+      "email": "gisele@ficticio.com",
+      "position": "Operador de Empilhadeira",
+      "permission": "Observador",
+      "status": false
+    },
+    {
+      "name": "Hugo",
+      "email": "hugo@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Administrador",
+      "status": false
+    },
+    {
+      "name": "Isabela",
+      "email": "isabela@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Observador",
+      "status": true
+    },
+    {
+      "name": "João",
+      "email": "joão@ficticio.com",
+      "position": "Gerente de Loja",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Karina",
+      "email": "karina@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Editor",
+      "status": true
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas@ficticio.com",
+      "position": "Atendente",
+      "permission": "Convidado",
+      "status": false
+    },
+    {
+      "name": "Márcia",
+      "email": "márcia@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Nelson",
+      "email": "nelson@ficticio.com",
+      "position": "Gerente de Loja",
+      "permission": "Convidado",
+      "status": false
+    },
+    {
+      "name": "Olívia",
+      "email": "olívia@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Paulo",
+      "email": "paulo@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Quitéria",
+      "email": "quitéria@ficticio.com",
+      "position": "Gerente de Loja",
+      "permission": "Editor",
+      "status": false
+    },
+    {
+      "name": "Rafael",
+      "email": "rafael@ficticio.com",
+      "position": "Consultor de Vendas",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Sandra",
+      "email": "sandra@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Tiago",
+      "email": "tiago@ficticio.com",
+      "position": "Atendente",
+      "permission": "Convidado",
+      "status": false
+    },
+    {
+      "name": "Ursula",
+      "email": "ursula@ficticio.com",
+      "position": "Gerente de Loja",
+      "permission": "Editor",
+      "status": true
+    },
+    {
+      "name": "Vítor",
+      "email": "vítor@ficticio.com",
+      "position": "Caixa",
+      "permission": "Observador",
+      "status": false
+    },
+    {
+      "name": "Wanda",
+      "email": "wanda@ficticio.com",
+      "position": "Operador de Empilhadeira",
+      "permission": "Observador",
+      "status": false
+    },
+    {
+      "name": "Xuxa",
+      "email": "xuxa@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Yara",
+      "email": "yara@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Zeca",
+      "email": "zeca@ficticio.com",
+      "position": "Estoquista",
+      "permission": "Editor",
+      "status": false
+    },
+    {
+      "name": "Ana",
+      "email": "ana@ficticio.com",
+      "position": "Caixa",
+      "permission": "Observador",
+      "status": false
+    },
+    {
+      "name": "Beto",
+      "email": "beto@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Editor",
+      "status": true
+    },
+    {
+      "name": "Camila",
+      "email": "camila@ficticio.com",
+      "position": "Assistente Adminstrativo",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Danilo",
+      "email": "danilo@ficticio.com",
+      "position": "Coordenador de Setor",
+      "permission": "Administrador",
+      "status": false
+    },
+    {
+      "name": "Elaine",
+      "email": "elaine@ficticio.com",
+      "position": "Analista Financeiro",
+      "permission": "Editor",
+      "status": true
+    },
+    {
+      "name": "Felipe",
+      "email": "felipe@ficticio.com",
+      "position": "Consultor de Vendas",
+      "permission": "Administrador",
+      "status": false
+    },
+    {
+      "name": "Glória",
+      "email": "glória@ficticio.com",
+      "position": "Coordenador de Setor",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Heitor",
+      "email": "heitor@ficticio.com",
+      "position": "Atendente",
+      "permission": "Observador",
+      "status": false
+    },
+    {
+      "name": "Irene",
+      "email": "irene@ficticio.com",
+      "position": "Atendente",
+      "permission": "Editor",
+      "status": false
+    },
+    {
+      "name": "Júlio",
+      "email": "júlio@ficticio.com",
+      "position": "Vendedor",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Kate",
+      "email": "kate@ficticio.com",
+      "position": "Operador de Empilhadeira",
+      "permission": "Editor",
+      "status": false
+    },
+    {
+      "name": "Leonardo",
+      "email": "leonardo@ficticio.com",
+      "position": "Atendente",
+      "permission": "Convidado",
+      "status": true
+    },
+    {
+      "name": "Mirela",
+      "email": "mirela@ficticio.com",
+      "position": "Estoquista",
+      "permission": "Administrador",
+      "status": true
+    },
+    {
+      "name": "Nícolas",
+      "email": "nícolas@ficticio.com",
+      "position": "Caixa",
+      "permission": "Convidado",
+      "status": true
+    }
+  ],
+  "branches": [
+    {
+      "businessName": "Empresa1",
+      "identifier": "08312596000162",
+      "address": "Rua 1, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa2",
+      "identifier": "67664719000129",
+      "address": "Rua 2, Bairro Central",
+      "region": "Sudeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa3",
+      "identifier": "19153956000160",
+      "address": "Rua 3, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa4",
+      "identifier": "61347545000190",
+      "address": "Rua 4, Bairro Central",
+      "region": "Sudeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa5",
+      "identifier": "93172227000129",
+      "address": "Rua 5, Bairro Central",
+      "region": "Nordeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa6",
+      "identifier": "58344174000125",
+      "address": "Rua 6, Bairro Central",
+      "region": "Sul",
+      "status": false
+    },
+    {
+      "businessName": "Empresa7",
+      "identifier": "69914520000110",
+      "address": "Rua 7, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa8",
+      "identifier": "57503291000111",
+      "address": "Rua 8, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa9",
+      "identifier": "97763520000155",
+      "address": "Rua 9, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa10",
+      "identifier": "97884092000158",
+      "address": "Rua 10, Bairro Central",
+      "region": "Norte",
+      "status": false
+    },
+    {
+      "businessName": "Empresa11",
+      "identifier": "93140342000164",
+      "address": "Rua 11, Bairro Central",
+      "region": "Sudeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa12",
+      "identifier": "74296732000166",
+      "address": "Rua 12, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa13",
+      "identifier": "60491895000179",
+      "address": "Rua 13, Bairro Central",
+      "region": "Sudeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa14",
+      "identifier": "55364354000172",
+      "address": "Rua 14, Bairro Central",
+      "region": "Norte",
+      "status": false
+    },
+    {
+      "businessName": "Empresa15",
+      "identifier": "61864674000115",
+      "address": "Rua 15, Bairro Central",
+      "region": "Norte",
+      "status": false
+    },
+    {
+      "businessName": "Empresa16",
+      "identifier": "34381132000144",
+      "address": "Rua 16, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa17",
+      "identifier": "71758117000137",
+      "address": "Rua 17, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa18",
+      "identifier": "23562161000119",
+      "address": "Rua 18, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa19",
+      "identifier": "90214694000127",
+      "address": "Rua 19, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa20",
+      "identifier": "27140908000153",
+      "address": "Rua 20, Bairro Central",
+      "region": "Nordeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa21",
+      "identifier": "59681986000152",
+      "address": "Rua 21, Bairro Central",
+      "region": "Sul",
+      "status": false
+    },
+    {
+      "businessName": "Empresa22",
+      "identifier": "44048773000153",
+      "address": "Rua 22, Bairro Central",
+      "region": "Sul",
+      "status": true
+    },
+    {
+      "businessName": "Empresa23",
+      "identifier": "89846563000192",
+      "address": "Rua 23, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa24",
+      "identifier": "82205847000123",
+      "address": "Rua 24, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa25",
+      "identifier": "92314724000137",
+      "address": "Rua 25, Bairro Central",
+      "region": "Nordeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa26",
+      "identifier": "80909976000193",
+      "address": "Rua 26, Bairro Central",
+      "region": "Nordeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa27",
+      "identifier": "91297184000160",
+      "address": "Rua 27, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa28",
+      "identifier": "41349820000110",
+      "address": "Rua 28, Bairro Central",
+      "region": "Nordeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa29",
+      "identifier": "39162986000130",
+      "address": "Rua 29, Bairro Central",
+      "region": "Sul",
+      "status": true
+    },
+    {
+      "businessName": "Empresa30",
+      "identifier": "61186558000195",
+      "address": "Rua 30, Bairro Central",
+      "region": "Sul",
+      "status": false
+    },
+    {
+      "businessName": "Empresa31",
+      "identifier": "92807899000121",
+      "address": "Rua 31, Bairro Central",
+      "region": "Norte",
+      "status": true
+    },
+    {
+      "businessName": "Empresa32",
+      "identifier": "83143916000100",
+      "address": "Rua 32, Bairro Central",
+      "region": "Sudeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa33",
+      "identifier": "58247842000106",
+      "address": "Rua 33, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": false
+    },
+    {
+      "businessName": "Empresa34",
+      "identifier": "48792898000157",
+      "address": "Rua 34, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa35",
+      "identifier": "52246736000140",
+      "address": "Rua 35, Bairro Central",
+      "region": "Sudeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa36",
+      "identifier": "89154095000175",
+      "address": "Rua 36, Bairro Central",
+      "region": "Sul",
+      "status": false
+    },
+    {
+      "businessName": "Empresa37",
+      "identifier": "42036797000160",
+      "address": "Rua 37, Bairro Central",
+      "region": "Norte",
+      "status": false
+    },
+    {
+      "businessName": "Empresa38",
+      "identifier": "27279332000142",
+      "address": "Rua 38, Bairro Central",
+      "region": "Centro-Oeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa39",
+      "identifier": "08015402000133",
+      "address": "Rua 39, Bairro Central",
+      "region": "Nordeste",
+      "status": true
+    },
+    {
+      "businessName": "Empresa40",
+      "identifier": "55869295000170",
+      "address": "Rua 40, Bairro Central",
+      "region": "Norte",
+      "status": true
+    }
+  ],
+  "worlds": [
+    {
+      "id": 1,
+      "name": "Mundo ConstruBrilho",
+      "scoreMultiplier": 2
+    },
+    {
+      "id": 2,
+      "name": "Mundo PedraForte",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 3,
+      "name": "Mundo PilarPrata",
+      "scoreMultiplier": 5
+    },
+    {
+      "id": 4,
+      "name": "Mundo MateriaisElite",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 5,
+      "name": "Mundo BricoLar",
+      "scoreMultiplier": 6
+    },
+    {
+      "id": 6,
+      "name": "Mundo ObraRapida",
+      "scoreMultiplier": 8
+    },
+    {
+      "id": 7,
+      "name": "Mundo TijoloDourado",
+      "scoreMultiplier": 7
+    },
+    {
+      "id": 8,
+      "name": "Mundo CasaNova",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 9,
+      "name": "Mundo ReformaExpress",
+      "scoreMultiplier": 4
+    },
+    {
+      "id": 10,
+      "name": "Mundo Mundo Tijolo",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 11,
+      "name": "Mundo PisoPerfeito",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 12,
+      "name": "Mundo JanelaLuz",
+      "scoreMultiplier": 1
+    },
+    {
+      "id": 13,
+      "name": "Mundo PortaSegura",
+      "scoreMultiplier": 3
+    },
+    {
+      "id": 14,
+      "name": "Mundo CimentoMaster",
+      "scoreMultiplier": 9
+    },
+    {
+      "id": 15,
+      "name": "Mundo AzulejoTop",
+      "scoreMultiplier": 4
+    }
+  ],
+  "logs": [
+    {
+      "responsible": "Julia",
+      "name": "Ana",
+      "identifier": "50565999498",
+      "type": "data update",
+      "date": 1688765588,
+      "ip": "181.99.213.42"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Bruno",
+      "identifier": "81666379091864",
+      "type": "logout",
+      "date": 1667338388,
+      "ip": "155.211.129.134"
+    },
+    {
+      "responsible": "Daniela",
+      "name": "Guilherme",
+      "identifier": "13445855670",
+      "type": "data update",
+      "date": 1686173588,
+      "ip": "245.85.148.39"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Daniela",
+      "identifier": "46473081666916",
+      "type": "logout",
+      "date": 1680039188,
+      "ip": "124.172.86.52"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Julia",
+      "identifier": "20758786273",
+      "type": "login Admin",
+      "date": 1672867988,
+      "ip": "8.128.115.25"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Ana",
+      "identifier": "29692502248911",
+      "type": "password reset",
+      "date": 1668807188,
+      "ip": "221.186.15.171"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Ana",
+      "identifier": "15117394113",
+      "type": "data update",
+      "date": 1672781588,
+      "ip": "4.238.31.95"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Eduardo",
+      "identifier": "62155007228965",
+      "type": "password reset",
+      "date": 1694467988,
+      "ip": "90.251.89.42"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Fernanda",
+      "identifier": "53497363868",
+      "type": "logout",
+      "date": 1682803988,
+      "ip": "245.0.17.173"
+    },
+    {
+      "responsible": "Ana",
+      "name": "Guilherme",
+      "identifier": "37369556520642",
+      "type": "data update",
+      "date": 1679261588,
+      "ip": "113.29.9.108"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Guilherme",
+      "identifier": "60771730204",
+      "type": "data update",
+      "date": 1689283988,
+      "ip": "154.160.182.30"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Bruno",
+      "identifier": "82208489614585",
+      "type": "account creation",
+      "date": 1677187988,
+      "ip": "131.243.120.145"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Daniela",
+      "identifier": "19248558565",
+      "type": "account creation",
+      "date": 1688679188,
+      "ip": "241.226.223.221"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Bruno",
+      "identifier": "06360056676039",
+      "type": "data update",
+      "date": 1687728788,
+      "ip": "225.0.91.120"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Guilherme",
+      "identifier": "02865220465",
+      "type": "logout",
+      "date": 1691184788,
+      "ip": "236.152.13.100"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Bruno",
+      "identifier": "71676893674275",
+      "type": "login Admin",
+      "date": 1665955988,
+      "ip": "209.95.56.56"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Daniela",
+      "identifier": "57145362996",
+      "type": "logout",
+      "date": 1676928788,
+      "ip": "255.162.251.111"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Julia",
+      "identifier": "92071003525652",
+      "type": "logout",
+      "date": 1687987988,
+      "ip": "168.132.245.207"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Ana",
+      "identifier": "85000437337",
+      "type": "login Admin",
+      "date": 1676928788,
+      "ip": "133.183.194.207"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Guilherme",
+      "identifier": "53840920518176",
+      "type": "data update",
+      "date": 1676237588,
+      "ip": "80.147.72.38"
+    },
+    {
+      "responsible": "Guilherme",
+      "name": "Eduardo",
+      "identifier": "71680400182",
+      "type": "account creation",
+      "date": 1680643988,
+      "ip": "206.180.100.175"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Julia",
+      "identifier": "81584437039020",
+      "type": "account creation",
+      "date": 1687123988,
+      "ip": "243.238.89.205"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Julia",
+      "identifier": "91893132763",
+      "type": "account creation",
+      "date": 1687469588,
+      "ip": "49.55.28.51"
+    },
+    {
+      "responsible": "Ana",
+      "name": "Daniela",
+      "identifier": "29581548075004",
+      "type": "account creation",
+      "date": 1686432788,
+      "ip": "97.67.221.158"
+    },
+    {
+      "responsible": "Eduardo",
+      "name": "Eduardo",
+      "identifier": "61247073389",
+      "type": "account creation",
+      "date": 1691789588,
+      "ip": "136.76.73.189"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Bruno",
+      "identifier": "66742171211759",
+      "type": "password reset",
+      "date": 1682026388,
+      "ip": "244.76.39.137"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Daniela",
+      "identifier": "40613311946",
+      "type": "login Admin",
+      "date": 1671917588,
+      "ip": "125.211.251.122"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Eduardo",
+      "identifier": "36877804232975",
+      "type": "logout",
+      "date": 1680989588,
+      "ip": "102.101.187.238"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Eduardo",
+      "identifier": "32514088169",
+      "type": "account creation",
+      "date": 1673645588,
+      "ip": "182.92.206.122"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Julia",
+      "identifier": "79583216812834",
+      "type": "password reset",
+      "date": 1694208788,
+      "ip": "126.40.93.159"
+    },
+    {
+      "responsible": "Guilherme",
+      "name": "Igor",
+      "identifier": "00882771998",
+      "type": "logout",
+      "date": 1688679188,
+      "ip": "163.188.103.242"
+    },
+    {
+      "responsible": "Daniela",
+      "name": "Carlos",
+      "identifier": "77864060317500",
+      "type": "account creation",
+      "date": 1688592788,
+      "ip": "83.171.140.180"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Eduardo",
+      "identifier": "70685321945",
+      "type": "login Admin",
+      "date": 1667770388,
+      "ip": "223.25.141.255"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Fernanda",
+      "identifier": "31957586830213",
+      "type": "account creation",
+      "date": 1691962388,
+      "ip": "82.197.83.110"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Ana",
+      "identifier": "20749305453",
+      "type": "password reset",
+      "date": 1667770388,
+      "ip": "42.172.96.160"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Helena",
+      "identifier": "47937828746920",
+      "type": "account creation",
+      "date": 1667856788,
+      "ip": "158.220.223.163"
+    },
+    {
+      "responsible": "Ana",
+      "name": "Fernanda",
+      "identifier": "16879027968",
+      "type": "data update",
+      "date": 1683322388,
+      "ip": "73.82.134.60"
+    },
+    {
+      "responsible": "Ana",
+      "name": "Igor",
+      "identifier": "55342260027305",
+      "type": "data update",
+      "date": 1670880788,
+      "ip": "63.245.44.126"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Bruno",
+      "identifier": "77887532018",
+      "type": "logout",
+      "date": 1687642388,
+      "ip": "73.95.123.137"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Eduardo",
+      "identifier": "91296665322671",
+      "type": "account creation",
+      "date": 1692394388,
+      "ip": "208.176.121.142"
+    },
+    {
+      "responsible": "Eduardo",
+      "name": "Guilherme",
+      "identifier": "82778156701",
+      "type": "password reset",
+      "date": 1681767188,
+      "ip": "230.7.193.80"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Carlos",
+      "identifier": "38952512403879",
+      "type": "data update",
+      "date": 1676669588,
+      "ip": "15.1.30.159"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Eduardo",
+      "identifier": "64776222100",
+      "type": "data update",
+      "date": 1679088788,
+      "ip": "54.76.123.228"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Guilherme",
+      "identifier": "47226315854344",
+      "type": "data update",
+      "date": 1674941588,
+      "ip": "249.234.78.179"
+    },
+    {
+      "responsible": "Helena",
+      "name": "Guilherme",
+      "identifier": "53803413815",
+      "type": "data update",
+      "date": 1691616788,
+      "ip": "242.228.177.17"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Guilherme",
+      "identifier": "63266928852492",
+      "type": "data update",
+      "date": 1683754388,
+      "ip": "149.216.7.120"
+    },
+    {
+      "responsible": "Ana",
+      "name": "Bruno",
+      "identifier": "12895659563",
+      "type": "password reset",
+      "date": 1689370388,
+      "ip": "220.236.250.122"
+    },
+    {
+      "responsible": "Carlos",
+      "name": "Carlos",
+      "identifier": "79769774436015",
+      "type": "account creation",
+      "date": 1673731988,
+      "ip": "233.211.210.124"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Daniela",
+      "identifier": "78360881850",
+      "type": "password reset",
+      "date": 1671226388,
+      "ip": "72.72.222.124"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Fernanda",
+      "identifier": "97931366113138",
+      "type": "account creation",
+      "date": 1681248788,
+      "ip": "236.178.105.233"
+    },
+    {
+      "responsible": "Daniela",
+      "name": "Eduardo",
+      "identifier": "34387172157",
+      "type": "data update",
+      "date": 1670362388,
+      "ip": "38.161.133.107"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Bruno",
+      "identifier": "54225617563808",
+      "type": "account creation",
+      "date": 1669239188,
+      "ip": "204.125.16.78"
+    },
+    {
+      "responsible": "Julia",
+      "name": "Bruno",
+      "identifier": "37450656805",
+      "type": "password reset",
+      "date": 1675287188,
+      "ip": "144.84.13.237"
+    },
+    {
+      "responsible": "Eduardo",
+      "name": "Eduardo",
+      "identifier": "93504617019899",
+      "type": "account creation",
+      "date": 1676669588,
+      "ip": "134.199.105.250"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Igor",
+      "identifier": "54392808689",
+      "type": "login Admin",
+      "date": 1680211988,
+      "ip": "205.70.106.28"
+    },
+    {
+      "responsible": "Guilherme",
+      "name": "Igor",
+      "identifier": "92306650210342",
+      "type": "password reset",
+      "date": 1675287188,
+      "ip": "197.79.46.33"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Daniela",
+      "identifier": "83583046573",
+      "type": "login Admin",
+      "date": 1687642388,
+      "ip": "210.3.27.124"
+    },
+    {
+      "responsible": "Bruno",
+      "name": "Helena",
+      "identifier": "22643253232827",
+      "type": "logout",
+      "date": 1692135188,
+      "ip": "207.106.134.120"
+    },
+    {
+      "responsible": "Igor",
+      "name": "Carlos",
+      "identifier": "13726034938",
+      "type": "password reset",
+      "date": 1671658388,
+      "ip": "252.10.17.2"
+    },
+    {
+      "responsible": "Fernanda",
+      "name": "Bruno",
+      "identifier": "94577482930768",
+      "type": "logout",
+      "date": 1677101588,
+      "ip": "72.42.19.90"
+    }
+  ],
+  "carpenters": [
+    {
+      "name": "Joao Silva",
+      "identifier": "012345678001",
+      "address": "Rua das Flores, 123",
+      "region": "Sudeste",
+      "totalPoints": 50,
+      "balancePoints": 25,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Maria Pereira",
+      "identifier": "012345678001",
+      "address": "Av. Principal, 45",
+      "region": "Nordeste",
+      "totalPoints": 60,
+      "balancePoints": 30,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Carlos Souza",
+      "identifier": "012345678001",
+      "address": "Rua da Paz, 789",
+      "region": "Sul",
+      "totalPoints": 70,
+      "balancePoints": 35,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Loja Madeiras",
+      "identifier": "0123456789101101",
+      "address": "Av. Brasil, 101",
+      "region": "Centro-Oeste",
+      "totalPoints": 80,
+      "balancePoints": 40,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Ferragens",
+      "identifier": "0123456789101101",
+      "address": "Rua Alegria, 567",
+      "region": "Norte",
+      "totalPoints": 90,
+      "balancePoints": 45,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Paulo Lima",
+      "identifier": "012345678001",
+      "address": "Rua Harmonia, 234",
+      "region": "Sudeste",
+      "totalPoints": 100,
+      "balancePoints": 50,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Tereza Costa",
+      "identifier": "012345678001",
+      "address": "Av. Progresso, 890",
+      "region": "Nordeste",
+      "totalPoints": 110,
+      "balancePoints": 55,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Loja Construcao",
+      "identifier": "0123456789101101",
+      "address": "Rua Esperança, 123",
+      "region": "Sul",
+      "totalPoints": 120,
+      "balancePoints": 60,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Pregos",
+      "identifier": "0123456789101101",
+      "address": "Av. Felicidade, 456",
+      "region": "Centro-Oeste",
+      "totalPoints": 130,
+      "balancePoints": 65,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Ana Martins",
+      "identifier": "012345678001",
+      "address": "Rua Liberdade, 789",
+      "region": "Norte",
+      "totalPoints": 140,
+      "balancePoints": 70,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Fernando Dias",
+      "identifier": "012345678001",
+      "address": "Av. Independencia, 345",
+      "region": "Sudeste",
+      "totalPoints": 150,
+      "balancePoints": 75,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Loja Tintas",
+      "identifier": "0123456789101101",
+      "address": "Rua Justiça, 678",
+      "region": "Nordeste",
+      "totalPoints": 160,
+      "balancePoints": 80,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Julia Oliveira",
+      "identifier": "012345678001",
+      "address": "Av. Igualdade, 123",
+      "region": "Sul",
+      "totalPoints": 170,
+      "balancePoints": 85,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Ricardo Santos",
+      "identifier": "012345678001",
+      "address": "Rua Solidariedade, 456",
+      "region": "Centro-Oeste",
+      "totalPoints": 180,
+      "balancePoints": 90,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Acabamentos",
+      "identifier": "0123456789101101",
+      "address": "Av. Amor, 789",
+      "region": "Norte",
+      "totalPoints": 190,
+      "balancePoints": 95,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Gisele Castro",
+      "identifier": "012345678001",
+      "address": "Rua Fraternidade, 101",
+      "region": "Sudeste",
+      "totalPoints": 200,
+      "balancePoints": 100,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Janelas",
+      "identifier": "0123456789101101",
+      "address": "Av. Esperança, 234",
+      "region": "Nordeste",
+      "totalPoints": 210,
+      "balancePoints": 105,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Roberto Moura",
+      "identifier": "012345678001",
+      "address": "Rua Vitoria, 567",
+      "region": "Sul",
+      "totalPoints": 220,
+      "balancePoints": 110,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Portas",
+      "identifier": "0123456789101101",
+      "address": "Av. Conquista, 890",
+      "region": "Centro-Oeste",
+      "totalPoints": 230,
+      "balancePoints": 115,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Silvia Rocha",
+      "identifier": "012345678001",
+      "address": "Rua Triunfo, 123",
+      "region": "Norte",
+      "totalPoints": 240,
+      "balancePoints": 120,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Pisos",
+      "identifier": "0123456789101101",
+      "address": "Av. Glória, 456",
+      "region": "Sudeste",
+      "totalPoints": 250,
+      "balancePoints": 125,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Diego Fernandes",
+      "identifier": "012345678001",
+      "address": "Rua Sucesso, 789",
+      "region": "Nordeste",
+      "totalPoints": 260,
+      "balancePoints": 130,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Telhados",
+      "identifier": "0123456789101101",
+      "address": "Av. Vitória, 101",
+      "region": "Sul",
+      "totalPoints": 270,
+      "balancePoints": 135,
+      "situation": "Inadimplente",
+      "status": false
+    },
+    {
+      "name": "Camila Barbosa",
+      "identifier": "012345678001",
+      "address": "Rua Conquista, 234",
+      "region": "Centro-Oeste",
+      "totalPoints": 280,
+      "balancePoints": 140,
+      "situation": "Adimplente",
+      "status": true
+    },
+    {
+      "name": "Loja Azulejos",
+      "identifier": "0123456789101101",
+      "address": "Av. Triunfo, 567",
+      "region": "Norte",
+      "totalPoints": 290,
+      "balancePoints": 145,
+      "situation": "Inadimplente",
+      "status": false
+    }
+  ],
+  "bundles": [
+    {
+      "id": 1,
+      "group": 1,
+      "carpenters": 2,
+      "points": 10,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 2,
+      "group": 2,
+      "carpenters": 3,
+      "points": 20,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 3,
+      "group": 3,
+      "carpenters": 4,
+      "points": 30,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 4,
+      "group": 4,
+      "carpenters": 5,
+      "points": 40,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 5,
+      "group": 5,
+      "carpenters": 6,
+      "points": 50,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 6,
+      "group": 6,
+      "carpenters": 7,
+      "points": 60,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 7,
+      "group": 7,
+      "carpenters": 8,
+      "points": 70,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 8,
+      "group": 8,
+      "carpenters": 9,
+      "points": 80,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 9,
+      "group": 9,
+      "carpenters": 10,
+      "points": 90,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 10,
+      "group": 10,
+      "carpenters": 1,
+      "points": 100,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 11,
+      "group": 11,
+      "carpenters": 2,
+      "points": 110,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 12,
+      "group": 12,
+      "carpenters": 3,
+      "points": 120,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 13,
+      "group": 13,
+      "carpenters": 4,
+      "points": 130,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 14,
+      "group": 14,
+      "carpenters": 5,
+      "points": 140,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 15,
+      "group": 15,
+      "carpenters": 6,
+      "points": 150,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 16,
+      "group": 16,
+      "carpenters": 7,
+      "points": 160,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 17,
+      "group": 17,
+      "carpenters": 8,
+      "points": 170,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 18,
+      "group": 18,
+      "carpenters": 9,
+      "points": 180,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 19,
+      "group": 19,
+      "carpenters": 10,
+      "points": 190,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 20,
+      "group": 20,
+      "carpenters": 1,
+      "points": 200,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 21,
+      "group": 21,
+      "carpenters": 2,
+      "points": 210,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 22,
+      "group": 22,
+      "carpenters": 3,
+      "points": 220,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 23,
+      "group": 23,
+      "carpenters": 4,
+      "points": 230,
+      "status": false,
+      "participants": []
+    },
+    {
+      "id": 24,
+      "group": 24,
+      "carpenters": 5,
+      "points": 240,
+      "status": true,
+      "participants": []
+    },
+    {
+      "id": 25,
+      "group": 25,
+      "carpenters": 6,
+      "points": 250,
+      "status": false,
+      "participants": []
+    }
+  ],
+  "vouchers": [
+    {
+      "voucherNumber": 130241,
+      "productDescription": "tomada",
+      "redemptionDate": 1654752676,
+      "cancellation": 1644584376,
+      "orderDate": 1671391890,
+      "returnDateLeo": 1645384605
+    },
+    {
+      "voucherNumber": 590813,
+      "productDescription": "prego",
+      "redemptionDate": 1652088172,
+      "cancellation": 1655363430,
+      "orderDate": 1670894999,
+      "returnDateLeo": 1658151567
+    },
+    {
+      "voucherNumber": 271717,
+      "productDescription": "serrote",
+      "redemptionDate": 1652896649,
+      "cancellation": 1664010822,
+      "orderDate": 1642177607,
+      "returnDateLeo": 1665418272
+    },
+    {
+      "voucherNumber": 547983,
+      "productDescription": "caneta de marcacao",
+      "redemptionDate": 1651307411,
+      "cancellation": 1667380702,
+      "orderDate": 1668637356,
+      "returnDateLeo": 1647235338
+    },
+    {
+      "voucherNumber": 663212,
+      "productDescription": "cal",
+      "redemptionDate": 1663292697,
+      "cancellation": 1656937429,
+      "orderDate": 1648914423,
+      "returnDateLeo": 1642227377
+    },
+    {
+      "voucherNumber": 534905,
+      "productDescription": "serrote",
+      "redemptionDate": 1653372316,
+      "cancellation": 1655181844,
+      "orderDate": 1663615581,
+      "returnDateLeo": 1652282855
+    },
+    {
+      "voucherNumber": 603847,
+      "productDescription": "lixa",
+      "redemptionDate": 1666747528,
+      "cancellation": 1672015563,
+      "orderDate": 1657715295,
+      "returnDateLeo": 1643777684
+    },
+    {
+      "voucherNumber": 735203,
+      "productDescription": "martelo",
+      "redemptionDate": 1661724985,
+      "cancellation": 1645155742,
+      "orderDate": 1645721662,
+      "returnDateLeo": 1661820985
+    },
+    {
+      "voucherNumber": 187940,
+      "productDescription": "chave de fenda",
+      "redemptionDate": 1645985293,
+      "cancellation": 1661527864,
+      "orderDate": 1642972386,
+      "returnDateLeo": 1655019114
+    },
+    {
+      "voucherNumber": 717188,
+      "productDescription": "trincha",
+      "redemptionDate": 1643130812,
+      "cancellation": 1642630201,
+      "orderDate": 1643607500,
+      "returnDateLeo": 1648575627
+    },
+    {
+      "voucherNumber": 518012,
+      "productDescription": "ferro de construcao",
+      "redemptionDate": 1649245060,
+      "cancellation": 1657102919,
+      "orderDate": 1652189645,
+      "returnDateLeo": 1656886280
+    },
+    {
+      "voucherNumber": 111831,
+      "productDescription": "interruptor",
+      "redemptionDate": 1671782882,
+      "cancellation": 1654629089,
+      "orderDate": 1644772377,
+      "returnDateLeo": 1659027627
+    },
+    {
+      "voucherNumber": 649625,
+      "productDescription": "massa corrida",
+      "redemptionDate": 1650082560,
+      "cancellation": 1665838142,
+      "orderDate": 1657069247,
+      "returnDateLeo": 1663587680
+    },
+    {
+      "voucherNumber": 726654,
+      "productDescription": "caneta de marcacao",
+      "redemptionDate": 1648918450,
+      "cancellation": 1670964627,
+      "orderDate": 1650848267,
+      "returnDateLeo": 1645119444
+    },
+    {
+      "voucherNumber": 307123,
+      "productDescription": "lampada",
+      "redemptionDate": 1661698947,
+      "cancellation": 1656556455,
+      "orderDate": 1656525272,
+      "returnDateLeo": 1666401361
+    },
+    {
+      "voucherNumber": 698285,
+      "productDescription": "martelo",
+      "redemptionDate": 1671503644,
+      "cancellation": 1667323795,
+      "orderDate": 1658121371,
+      "returnDateLeo": 1645444068
+    },
+    {
+      "voucherNumber": 416015,
+      "productDescription": "cimento",
+      "redemptionDate": 1661215490,
+      "cancellation": 1658394834,
+      "orderDate": 1648404784,
+      "returnDateLeo": 1658761838
+    },
+    {
+      "voucherNumber": 776039,
+      "productDescription": "argamassa",
+      "redemptionDate": 1670310052,
+      "cancellation": 1661126108,
+      "orderDate": 1654134884,
+      "returnDateLeo": 1657578958
+    },
+    {
+      "voucherNumber": 346045,
+      "productDescription": "caneta de marcacao",
+      "redemptionDate": 1644235324,
+      "cancellation": 1647911023,
+      "orderDate": 1654740707,
+      "returnDateLeo": 1651978559
+    },
+    {
+      "voucherNumber": 452944,
+      "productDescription": "lona",
+      "redemptionDate": 1650756590,
+      "cancellation": 1672383098,
+      "orderDate": 1648255540,
+      "returnDateLeo": 1653305271
+    },
+    {
+      "voucherNumber": 298578,
+      "productDescription": "parafuso",
+      "redemptionDate": 1659341951,
+      "cancellation": 1670888890,
+      "orderDate": 1647318803,
+      "returnDateLeo": 1647559196
+    },
+    {
+      "voucherNumber": 492055,
+      "productDescription": "abracadeira",
+      "redemptionDate": 1663024768,
+      "cancellation": 1644175339,
+      "orderDate": 1659938830,
+      "returnDateLeo": 1650239264
+    },
+    {
+      "voucherNumber": 240849,
+      "productDescription": "tubo PVC",
+      "redemptionDate": 1647452526,
+      "cancellation": 1646021693,
+      "orderDate": 1667501356,
+      "returnDateLeo": 1656070893
+    },
+    {
+      "voucherNumber": 207042,
+      "productDescription": "fio eletrico",
+      "redemptionDate": 1642242065,
+      "cancellation": 1651758216,
+      "orderDate": 1651538184,
+      "returnDateLeo": 1665906372
+    },
+    {
+      "voucherNumber": 222179,
+      "productDescription": "interruptor",
+      "redemptionDate": 1647118998,
+      "cancellation": 1669851984,
+      "orderDate": 1653244595,
+      "returnDateLeo": 1663643059
+    },
+    {
+      "voucherNumber": 588379,
+      "productDescription": "chave de fenda",
+      "redemptionDate": 1644019984,
+      "cancellation": 1649674620,
+      "orderDate": 1642743922,
+      "returnDateLeo": 1646734383
+    },
+    {
+      "voucherNumber": 574439,
+      "productDescription": "lona",
+      "redemptionDate": 1649605947,
+      "cancellation": 1664440648,
+      "orderDate": 1668860283,
+      "returnDateLeo": 1644074362
+    },
+    {
+      "voucherNumber": 281564,
+      "productDescription": "lampada",
+      "redemptionDate": 1648333189,
+      "cancellation": 1648869141,
+      "orderDate": 1645899442,
+      "returnDateLeo": 1662535321
+    },
+    {
+      "voucherNumber": 322773,
+      "productDescription": "lona",
+      "redemptionDate": 1645806372,
+      "cancellation": 1651212803,
+      "orderDate": 1668506439,
+      "returnDateLeo": 1667979946
+    },
+    {
+      "voucherNumber": 697176,
+      "productDescription": "martelo",
+      "redemptionDate": 1670758799,
+      "cancellation": 1670134702,
+      "orderDate": 1668291905,
+      "returnDateLeo": 1659413713
+    },
+    {
+      "voucherNumber": 496172,
+      "productDescription": "prego",
+      "redemptionDate": 1649678030,
+      "cancellation": 1660643825,
+      "orderDate": 1659594162,
+      "returnDateLeo": 1668006183
+    },
+    {
+      "voucherNumber": 977835,
+      "productDescription": "broca",
+      "redemptionDate": 1642178294,
+      "cancellation": 1654639227,
+      "orderDate": 1651350275,
+      "returnDateLeo": 1662213867
+    },
+    {
+      "voucherNumber": 561609,
+      "productDescription": "abracadeira",
+      "redemptionDate": 1650222420,
+      "cancellation": 1671428721,
+      "orderDate": 1641956470,
+      "returnDateLeo": 1653425470
+    },
+    {
+      "voucherNumber": 585463,
+      "productDescription": "nivel",
+      "redemptionDate": 1663172764,
+      "cancellation": 1646654230,
+      "orderDate": 1671154490,
+      "returnDateLeo": 1666794987
+    },
+    {
+      "voucherNumber": 269436,
+      "productDescription": "interruptor",
+      "redemptionDate": 1656110574,
+      "cancellation": 1655877813,
+      "orderDate": 1643882288,
+      "returnDateLeo": 1667370347
+    },
+    {
+      "voucherNumber": 368059,
+      "productDescription": "verniz",
+      "redemptionDate": 1672281230,
+      "cancellation": 1665284248,
+      "orderDate": 1667075274,
+      "returnDateLeo": 1663744905
+    },
+    {
+      "voucherNumber": 590654,
+      "productDescription": "fio eletrico",
+      "redemptionDate": 1671151650,
+      "cancellation": 1662362233,
+      "orderDate": 1659737819,
+      "returnDateLeo": 1654972818
+    },
+    {
+      "voucherNumber": 451583,
+      "productDescription": "parafuso",
+      "redemptionDate": 1660457211,
+      "cancellation": 1658132642,
+      "orderDate": 1645302059,
+      "returnDateLeo": 1645227071
+    },
+    {
+      "voucherNumber": 266319,
+      "productDescription": "massa corrida",
+      "redemptionDate": 1672213017,
+      "cancellation": 1644350184,
+      "orderDate": 1654101114,
+      "returnDateLeo": 1649672983
+    },
+    {
+      "voucherNumber": 211878,
+      "productDescription": "serra",
+      "redemptionDate": 1671978033,
+      "cancellation": 1646735420,
+      "orderDate": 1647082830,
+      "returnDateLeo": 1661322091
+    }
+  ],
+  "histories": [
+    {
+      "store": "Mercado",
+      "january": 9446,
+      "february": 9407,
+      "march": 5431,
+      "april": 5693,
+      "may": 7634,
+      "june": 9806,
+      "july": 9943,
+      "august": 4518,
+      "september": 4447,
+      "october": 9747,
+      "november": 6436,
+      "december": 4812
+    },
+    {
+      "store": "Padaria",
+      "january": 1444,
+      "february": 9632,
+      "march": 7104,
+      "april": 5406,
+      "may": 710,
+      "june": 6459,
+      "july": 1463,
+      "august": 9302,
+      "september": 2581,
+      "october": 1246,
+      "november": 783,
+      "december": 668
+    },
+    {
+      "store": "Livraria",
+      "january": 9168,
+      "february": 3187,
+      "march": 8358,
+      "april": 927,
+      "may": 8113,
+      "june": 2410,
+      "july": 8659,
+      "august": 4898,
+      "september": 114,
+      "october": 4667,
+      "november": 3522,
+      "december": 2182
+    },
+    {
+      "store": "Farmacia",
+      "january": 7162,
+      "february": 1630,
+      "march": 1248,
+      "april": 8609,
+      "may": 9513,
+      "june": 8801,
+      "july": 7302,
+      "august": 6249,
+      "september": 3845,
+      "october": 7463,
+      "november": 5936,
+      "december": 3777
+    },
+    {
+      "store": "LojaEletronicos",
+      "january": 7273,
+      "february": 2122,
+      "march": 2402,
+      "april": 276,
+      "may": 4630,
+      "june": 9255,
+      "july": 5741,
+      "august": 8435,
+      "september": 2405,
+      "october": 1256,
+      "november": 3485,
+      "december": 9023
+    },
+    {
+      "store": "Confeitaria",
+      "january": 2504,
+      "february": 6209,
+      "march": 3559,
+      "april": 3636,
+      "may": 9055,
+      "june": 7797,
+      "july": 4674,
+      "august": 2505,
+      "september": 4901,
+      "october": 1837,
+      "november": 644,
+      "december": 6622
+    },
+    {
+      "store": "Borracharia",
+      "january": 651,
+      "february": 4931,
+      "march": 6024,
+      "april": 877,
+      "may": 6097,
+      "june": 7921,
+      "july": 5655,
+      "august": 8725,
+      "september": 7168,
+      "october": 1253,
+      "november": 6215,
+      "december": 5538
+    },
+    {
+      "store": "Barbearia",
+      "january": 6552,
+      "february": 7617,
+      "march": 7391,
+      "april": 5055,
+      "may": 1619,
+      "june": 3625,
+      "july": 9379,
+      "august": 2031,
+      "september": 4392,
+      "october": 3276,
+      "november": 5158,
+      "december": 8553
+    },
+    {
+      "store": "Papelaria",
+      "january": 7191,
+      "february": 8389,
+      "march": 9415,
+      "april": 290,
+      "may": 4382,
+      "june": 7782,
+      "july": 6092,
+      "august": 141,
+      "september": 8354,
+      "october": 756,
+      "november": 5651,
+      "december": 2548
+    },
+    {
+      "store": "Petshop",
+      "january": 948,
+      "february": 6080,
+      "march": 4269,
+      "april": 8055,
+      "may": 5234,
+      "june": 5734,
+      "july": 2577,
+      "august": 1417,
+      "september": 4160,
+      "october": 7504,
+      "november": 5325,
+      "december": 384
+    },
+    {
+      "store": "Perfumaria",
+      "january": 3850,
+      "february": 4592,
+      "march": 778,
+      "april": 1424,
+      "may": 4453,
+      "june": 800,
+      "july": 1317,
+      "august": 2271,
+      "september": 7331,
+      "october": 8880,
+      "november": 681,
+      "december": 4676
+    },
+    {
+      "store": "Construtora",
+      "january": 6793,
+      "february": 9159,
+      "march": 3509,
+      "april": 8370,
+      "may": 8851,
+      "june": 2953,
+      "july": 8084,
+      "august": 7268,
+      "september": 4133,
+      "october": 3381,
+      "november": 4524,
+      "december": 5828
+    },
+    {
+      "store": "AgenciaViagens",
+      "january": 2274,
+      "february": 8194,
+      "march": 8518,
+      "april": 9583,
+      "may": 8873,
+      "june": 7539,
+      "july": 846,
+      "august": 8570,
+      "september": 1714,
+      "october": 603,
+      "november": 1955,
+      "december": 6987
+    },
+    {
+      "store": "Academia",
+      "january": 6074,
+      "february": 8525,
+      "march": 6578,
+      "april": 8287,
+      "may": 3159,
+      "june": 1071,
+      "july": 4268,
+      "august": 8958,
+      "september": 2085,
+      "october": 6433,
+      "november": 3437,
+      "december": 4381
+    },
+    {
+      "store": "Joalheria",
+      "january": 6779,
+      "february": 2950,
+      "march": 3848,
+      "april": 3506,
+      "may": 2916,
+      "june": 4956,
+      "july": 7551,
+      "august": 435,
+      "september": 6744,
+      "october": 2926,
+      "november": 9522,
+      "december": 3666
+    },
+    {
+      "store": "Restaurante",
+      "january": 3897,
+      "february": 8594,
+      "march": 2775,
+      "april": 6300,
+      "may": 4417,
+      "june": 7943,
+      "july": 2172,
+      "august": 4227,
+      "september": 2045,
+      "october": 1190,
+      "november": 1497,
+      "december": 4895
+    },
+    {
+      "store": "Lanchonete",
+      "january": 3260,
+      "february": 2991,
+      "march": 226,
+      "april": 9098,
+      "may": 5159,
+      "june": 1655,
+      "july": 7588,
+      "august": 8163,
+      "september": 1010,
+      "october": 1761,
+      "november": 5055,
+      "december": 4843
+    },
+    {
+      "store": "Sapataria",
+      "january": 3040,
+      "february": 1007,
+      "march": 7746,
+      "april": 1252,
+      "may": 7959,
+      "june": 7915,
+      "july": 4612,
+      "august": 7944,
+      "september": 6021,
+      "october": 4774,
+      "november": 8498,
+      "december": 7083
+    },
+    {
+      "store": "Supermercado",
+      "january": 9913,
+      "february": 2964,
+      "march": 9961,
+      "april": 9444,
+      "may": 7779,
+      "june": 8969,
+      "july": 8727,
+      "august": 5287,
+      "september": 8509,
+      "october": 7330,
+      "november": 5967,
+      "december": 2347
+    },
+    {
+      "store": "LojaBrinquedos",
+      "january": 8595,
+      "february": 4178,
+      "march": 1922,
+      "april": 7109,
+      "may": 8206,
+      "june": 2909,
+      "july": 232,
+      "august": 2513,
+      "september": 988,
+      "october": 5685,
+      "november": 2390,
+      "december": 190
+    },
+    {
+      "store": "Vidracaria",
+      "january": 1567,
+      "february": 6228,
+      "march": 5909,
+      "april": 7365,
+      "may": 8988,
+      "june": 6602,
+      "july": 3398,
+      "august": 4102,
+      "september": 5595,
+      "october": 3229,
+      "november": 5676,
+      "december": 4444
+    },
+    {
+      "store": "Marmoraria",
+      "january": 7303,
+      "february": 4624,
+      "march": 6871,
+      "april": 629,
+      "may": 4552,
+      "june": 2586,
+      "july": 7836,
+      "august": 3716,
+      "september": 2664,
+      "october": 8586,
+      "november": 5774,
+      "december": 9212
+    },
+    {
+      "store": "LojaRoupas",
+      "january": 9091,
+      "february": 2553,
+      "march": 1010,
+      "april": 9449,
+      "may": 2396,
+      "june": 3113,
+      "july": 7354,
+      "august": 3792,
+      "september": 2674,
+      "october": 7486,
+      "november": 7972,
+      "december": 8175
+    },
+    {
+      "store": "Bicicletaria",
+      "january": 9115,
+      "february": 4021,
+      "march": 8796,
+      "april": 484,
+      "may": 5774,
+      "june": 3590,
+      "july": 8963,
+      "august": 6743,
+      "september": 6498,
+      "october": 7976,
+      "november": 7346,
+      "december": 2636
+    },
+    {
+      "store": "Floricultura",
+      "january": 8183,
+      "february": 916,
+      "march": 8209,
+      "april": 1156,
+      "may": 9352,
+      "june": 6206,
+      "july": 3816,
+      "august": 6190,
+      "september": 2630,
+      "october": 5585,
+      "november": 1009,
+      "december": 5235
+    },
+    {
+      "store": "Ferragista",
+      "january": 2946,
+      "february": 7762,
+      "march": 3402,
+      "april": 4987,
+      "may": 7170,
+      "june": 3385,
+      "july": 1229,
+      "august": 8223,
+      "september": 7226,
+      "october": 3228,
+      "november": 2011,
+      "december": 1991
+    },
+    {
+      "store": "CasaLotericas",
+      "january": 6247,
+      "february": 9071,
+      "march": 3524,
+      "april": 5084,
+      "may": 1838,
+      "june": 7114,
+      "july": 8516,
+      "august": 4090,
+      "september": 1795,
+      "october": 243,
+      "november": 4172,
+      "december": 5504
+    },
+    {
+      "store": "Varejao",
+      "january": 4920,
+      "february": 2876,
+      "march": 6363,
+      "april": 6697,
+      "may": 8453,
+      "june": 4216,
+      "july": 8281,
+      "august": 6195,
+      "september": 6245,
+      "october": 1587,
+      "november": 9266,
+      "december": 531
+    },
+    {
+      "store": "Atacado",
+      "january": 896,
+      "february": 9258,
+      "march": 8725,
+      "april": 3171,
+      "may": 8287,
+      "june": 2763,
+      "july": 7178,
+      "august": 348,
+      "september": 1257,
+      "october": 8692,
+      "november": 1638,
+      "december": 3732
+    },
+    {
+      "store": "LojaCosmeticos",
+      "january": 7646,
+      "february": 1997,
+      "march": 8749,
+      "april": 6440,
+      "may": 7420,
+      "june": 6537,
+      "july": 9704,
+      "august": 5585,
+      "september": 4441,
+      "october": 8441,
+      "november": 191,
+      "december": 1919
+    },
+    {
+      "store": "LojaMoveis",
+      "january": 1539,
+      "february": 1142,
+      "march": 6572,
+      "april": 2437,
+      "may": 2667,
+      "june": 2535,
+      "july": 8673,
+      "august": 1407,
+      "september": 6036,
+      "october": 2691,
+      "november": 8127,
+      "december": 7905
+    },
+    {
+      "store": "LojaColchoes",
+      "january": 4911,
+      "february": 6663,
+      "march": 2414,
+      "april": 605,
+      "may": 5574,
+      "june": 1851,
+      "july": 5878,
+      "august": 7626,
+      "september": 3409,
+      "october": 2560,
+      "november": 792,
+      "december": 2540
+    },
+    {
+      "store": "LojaInstrumentos",
+      "january": 7971,
+      "february": 2972,
+      "march": 8158,
+      "april": 3985,
+      "may": 3238,
+      "june": 4086,
+      "july": 820,
+      "august": 6376,
+      "september": 3414,
+      "october": 6119,
+      "november": 4967,
+      "december": 8973
+    },
+    {
+      "store": "EstudioFotografia",
+      "january": 3300,
+      "february": 7811,
+      "march": 4373,
+      "april": 3075,
+      "may": 307,
+      "june": 4377,
+      "july": 642,
+      "august": 5548,
+      "september": 3358,
+      "october": 6676,
+      "november": 2196,
+      "december": 1646
+    },
+    {
+      "store": "Lavanderia",
+      "january": 216,
+      "february": 3656,
+      "march": 2270,
+      "april": 4337,
+      "may": 5733,
+      "june": 4172,
+      "july": 207,
+      "august": 6141,
+      "september": 5326,
+      "october": 4942,
+      "november": 3981,
+      "december": 2861
+    },
+    {
+      "store": "Otica",
+      "january": 7068,
+      "february": 5328,
+      "march": 740,
+      "april": 5562,
+      "may": 9212,
+      "june": 4751,
+      "july": 8489,
+      "august": 2352,
+      "september": 4732,
+      "october": 2350,
+      "november": 8712,
+      "december": 8951
+    },
+    {
+      "store": "LojaComputadores",
+      "january": 3444,
+      "february": 8491,
+      "march": 9878,
+      "april": 6202,
+      "may": 6409,
+      "june": 6664,
+      "july": 3083,
+      "august": 3363,
+      "september": 1900,
+      "october": 7726,
+      "november": 1929,
+      "december": 2973
+    },
+    {
+      "store": "LojaCelulares",
+      "january": 6804,
+      "february": 5262,
+      "march": 2054,
+      "april": 1141,
+      "may": 5060,
+      "june": 2408,
+      "july": 1541,
+      "august": 9459,
+      "september": 3325,
+      "october": 3986,
+      "november": 268,
+      "december": 1563
+    },
+    {
+      "store": "LojaEsportes",
+      "january": 5451,
+      "february": 8969,
+      "march": 3257,
+      "april": 8136,
+      "may": 5853,
+      "june": 4731,
+      "july": 5929,
+      "august": 6525,
+      "september": 7536,
+      "october": 2949,
+      "november": 8067,
+      "december": 5317
+    }
+  ],
+  "stores": [
+    {
+      "store": "Materiais Construcao Silva",
+      "points": 915,
+      "total": 62083
+    },
+    {
+      "store": "ConstruBrasil",
+      "points": 966,
+      "total": 66001
+    },
+    {
+      "store": "CasaNova Materiais",
+      "points": 344,
+      "total": 71310
+    },
+    {
+      "store": "ReformaFacil",
+      "points": 340,
+      "total": 99795
+    },
+    {
+      "store": "ConstruRapido",
+      "points": 355,
+      "total": 78474
+    },
+    {
+      "store": "Materiais Pedroso",
+      "points": 653,
+      "total": 79076
+    },
+    {
+      "store": "Casa e Construcao",
+      "points": 913,
+      "total": 66450
+    },
+    {
+      "store": "BomConstrutor",
+      "points": 532,
+      "total": 50727
+    },
+    {
+      "store": "Depot Construcao",
+      "points": 575,
+      "total": 62297
+    },
+    {
+      "store": "Mega Materiais",
+      "points": 476,
+      "total": 88490
+    }
+  ],
+  "clients": [
+    {
+      "client": "Carlos Silva",
+      "store": "CasaNova Materiais",
+      "points": 970,
+      "total": 4298.83
+    },
+    {
+      "client": "Ana Oliveira",
+      "store": "ConstruRapido",
+      "points": 994,
+      "total": 3863.59
+    },
+    {
+      "client": "Roberto Souza",
+      "store": "Materiais Construcao Silva",
+      "points": 130,
+      "total": 5076.08
+    },
+    {
+      "client": "Fernanda Costa",
+      "store": "Materiais Pedroso",
+      "points": 671,
+      "total": 1145.46
+    },
+    {
+      "client": "Paulo Santos",
+      "store": "ConstruRapido",
+      "points": 267,
+      "total": 9992.01
+    },
+    {
+      "client": "Juliana Pereira",
+      "store": "CasaNova Materiais",
+      "points": 566,
+      "total": 2310.84
+    },
+    {
+      "client": "Gabriel Rocha",
+      "store": "Depot Construcao",
+      "points": 533,
+      "total": 9929.23
+    },
+    {
+      "client": "Mariana Lima",
+      "store": "Materiais Construcao Silva",
+      "points": 854,
+      "total": 7975.1
+    },
+    {
+      "client": "Ricardo Nunes",
+      "store": "Casa e Construcao",
+      "points": 659,
+      "total": 5168.76
+    },
+    {
+      "client": "Leticia Martins",
+      "store": "ConstruBrasil",
+      "points": 433,
+      "total": 1485.59
+    }
+  ]
+}

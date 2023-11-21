@@ -1,0 +1,52 @@
+<div class="container">
+  <div class="left-panel">
+    <img
+      class="background-image"
+      src="../../../assets/furadeira.jpg"
+      alt="Background Image"
+    />
+    <div class="overlay"></div>
+    <div class="overlay-text">
+      Com o <span class="highlight-text">Fideliza Agro</span>, suas compras
+      valem <span class="highlight-bold">benefícios exclusivos</span>!
+    </div>
+  </div>
+  <div class="right-panel">
+    <form class="login-panel" [formGroup]="loginForm" (ngSubmit)="login()">
+      <div class="logo">Fideliza Agro</div>
+      <div class="title">Entrar</div>
+      <div class="input-group">
+        <label for="cpf">CPF</label>
+        <input
+          type="text"
+          id="cpf"
+          formControlName="cpf"
+          placeholder="CPF"
+          autocomplete="username"
+          required
+        />
+      </div>
+      <div class="input-group">
+        <div class="passwordAndError">
+          <label for="senha">Senha</label>
+          <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+        </div>
+        <input
+          [type]="showPassword ? 'text' : 'password'"
+          id="senha"
+          formControlName="password"
+          placeholder="Senha"
+          autocomplete="current-password"
+          required
+        />
+        <ion-icon
+          (click)="togglePassword()"
+          [name]="showPassword ? 'eye-off-outline' : 'eye-outline'"
+        ></ion-icon>
+      </div>
+      <a class="forgot-password" (click)="navigateToForgotPassword()">Esqueci minha senha</a>
+      <button type="submit" class="btn-login">Entrar</button>
+      <button type="button" class="btn-register" (click)="navigateToSignUp()">Cadastre-se</button>
+    </form>
+  </div>
+</div>

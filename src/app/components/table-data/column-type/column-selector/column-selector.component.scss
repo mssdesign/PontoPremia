@@ -1,0 +1,23 @@
+.dropdown {
+  border-radius: 8px;
+  position: relative;
+
+  select {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: var(--ion-color-light-grey);
+    appearance: none;
+    cursor: pointer;
+    width: 80px;
+  }
+
+  ion-icon {
+    top: 30%;
+    right: 10%;
+    position: absolute;
+    pointer-events: none;
+    color: var(--ion-color-dark-grey);
+  }
+}

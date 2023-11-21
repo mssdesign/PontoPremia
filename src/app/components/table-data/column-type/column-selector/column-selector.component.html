@@ -1,0 +1,7 @@
+<div class="dropdown">
+  <select (change)="selectValue($event)">
+    <option *ngFor="let num of scoreMultipliers" [value]="num" [attr.selected]="num === selectedNumber ? '' : null">{{ num }}x</option>
+  </select>
+  <ion-icon name="chevron-down-outline"></ion-icon>
+</div>
+

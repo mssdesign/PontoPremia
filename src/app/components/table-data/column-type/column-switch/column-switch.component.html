@@ -1,0 +1,9 @@
+<div class="outsideSwitch" (click)="toggle()">
+  <div class="switchBtn" [class.active]="isActive">
+    <div class="switchCircle"></div>
+    <div class="switchLabel">
+      <span *ngIf="isActive">ATIVO</span>
+      <span *ngIf="!isActive" class="inactive">INATIVO</span>
+    </div>
+  </div>
+</div>

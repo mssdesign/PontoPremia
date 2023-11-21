@@ -1,0 +1,70 @@
+<div class="container">
+  <div class="left-panel">
+    <img
+      class="background-image"
+      src="../../../assets/furadeira.jpg"
+      alt="Background Image"
+    />
+    <div class="overlay"></div>
+    <div class="overlay-text">
+      Com o <span class="highlight-text">Fideliza Agro</span>, suas compras
+      valem <span class="highlight-bold">benefícios exclusivos</span>!
+    </div>
+  </div>
+  <div class="right-panel">
+    <form class="login-panel" [formGroup]="registerForm" (ngSubmit)="register()">
+      <div class="logo">Fideliza Agro</div>
+      <div class="topRegister">
+        <div class="title">Cadastro</div>
+        <button type="button" class="btn-back" (click)="goBackToLogin()">
+          <ion-icon name="arrow-back-outline"></ion-icon> Voltar
+        </button>
+      </div>
+      <div class="input-group">
+        <label for="nome">Nome</label>
+        <input
+          type="text"
+          id="nome"
+          formControlName="nome"
+          placeholder="Nome"
+          required
+        />
+      </div>
+      <div class="input-group">
+        <label for="cpf">CPF</label>
+        <input
+          type="text"
+          id="cpf"
+          formControlName="cpf"
+          placeholder="CPF"
+          required
+        />
+      </div>
+      <div class="input-group">
+        <label for="email">E-mail</label>
+        <input
+          type="email"
+          id="email"
+          formControlName="email"
+          placeholder="E-mail"
+          required
+        />
+      </div>
+      <div class="input-group">
+        <label for="password">Senha</label>
+        <input
+          [type]="showPassword ? 'text' : 'password'"
+          id="password"
+          formControlName="password"
+          placeholder="Senha"
+          required
+        />
+        <ion-icon
+          (click)="togglePassword()"
+          [name]="showPassword ? 'eye-off-outline' : 'eye-outline'"
+        ></ion-icon>
+      </div>      
+      <button type="submit" class="btn-login">Criar cadastro</button>
+    </form>
+  </div>
+</div>

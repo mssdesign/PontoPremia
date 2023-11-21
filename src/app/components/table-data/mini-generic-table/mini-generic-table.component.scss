@@ -1,0 +1,105 @@
+.table {
+  border-radius: 15px;  
+  border: 15px solid var(--ion-color-white);
+  background-color: var(--ion-color-white);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+  .tableTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0 32px 0;
+
+    .title {
+      font-size: 20px;
+      color: var(--ion-color-primary-blue);
+
+      span {
+        font-weight: bolder;
+      }
+    }
+
+    .searchBar {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      overflow: hidden;
+  
+      .inputSearch {
+        border: 1px solid var(--ion-color-grey);
+        background-color: var(--ion-color-white);
+        height: 32px;        
+        padding: 10px 16px;
+        flex-grow: .5;
+        outline: none;
+        font-size: 16px;
+        ::placeholder {
+          color: var(--ion-color-dark-grey);
+        }
+      }
+  
+      .searchButton {
+        background-color: var(--ion-color-white);
+        border-left: 1px solid var(--ion-color-grey);
+        border: 1px solid var(--ion-color-grey);
+        height: 32px;
+        border-radius: 0 8px 8px 0;
+        padding: 10px 10px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+  
+        &:active {
+          transform: scale(0.95);
+        }
+      }
+  
+      .filter {
+        margin-left: 16px;
+        border-radius: 8px;        
+        border: 1px solid var(--ion-color-grey);
+        background-color: var(--ion-color-white);
+        color: var(--ion-color-dark-grey);
+        padding: 8px 12px;
+  
+        &:active {
+          transform: scale(0.95);
+        }
+      }
+    }
+  }
+
+  .header {
+    padding: 16px 0 16px 16px;
+    background-color: var(--ion-color-light-grey);
+    border-radius: 10px 10px 0 0;
+
+    .headerCol {
+      display: flex;
+      flex: 1;
+    }
+  }
+
+  .list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 16px;
+    height: 5rem;
+
+    div {
+      border-bottom: 1px solid var(--ion-color-grey);
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex: 1;
+    }
+  }
+
+  .header ion-col,
+  .list ion-col {
+    overflow: hidden;
+  }
+}

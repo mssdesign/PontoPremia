@@ -1,0 +1,75 @@
+.table {
+  border-radius: 15px;
+  margin: 0 20px 0 20px;
+  background-color: var(--ion-color-white);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+  .header {
+    padding: 16px 0 16px 16px;
+    background-color: var(--ion-color-light-grey);
+    border-radius: 10px 10px 0 0;
+
+    .headerCol {
+      display: flex;
+      flex: 1;
+    }
+  }
+
+  .list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 16px;
+    height: 5rem;
+
+    div {
+      border-bottom: 1px solid var(--ion-color-grey);
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex: 1;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: flex-start;
+    }
+  }
+
+  .header ion-col,
+  .list ion-col {
+    overflow: hidden;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .paginationConfig {
+      display: flex;
+      align-items: center;
+    }
+
+    .paginationForm {
+      margin-left: 12px;
+      margin-right: 12px;
+
+      select {
+        padding: 8px;
+        border-radius: 8px;
+        background-color: var(--ion-color-light-grey);
+      }
+    }
+
+    .paginationButtons {
+      ion-button {
+        background-color: var(--ion-color-light-grey);
+
+        &.buttonNotViewed {
+          --border-color: var(--ion-color-grey);
+        }
+      }
+    }
+  }
+}

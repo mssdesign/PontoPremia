@@ -1,0 +1,7 @@
+{
+  "name": "fideliza-agro-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

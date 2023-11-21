@@ -1,0 +1,27 @@
+<ion-content>
+  <app-main-header></app-main-header>
+
+  <div class="cards">
+    <app-chart-card *ngFor="let chart of chartData"
+      [data]="chart.data"
+      [labels]="chartLabels"
+      [title]="chart.label"
+      [borderColor]="chart.borderColor"
+    ></app-chart-card>
+  </div>
+
+  <div class="tables">
+    <app-mini-generic-table
+      label="Clientes"
+      [items]="clients"
+      [config]="tableClientsConfig"
+    >
+    </app-mini-generic-table>
+    <app-mini-generic-table
+      label="Lojas"
+      [items]="stores"
+      [config]="tableStoresConfig"
+    >
+    </app-mini-generic-table>
+  </div>
+</ion-content>

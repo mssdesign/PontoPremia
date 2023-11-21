@@ -1,0 +1,53 @@
+<ion-grid class="table">
+  <ion-row>
+    <ion-col>
+      <ion-row>
+        <div class="tableTop">
+          <div class="title">Top 10 <span> {{ label }} </span></div>
+          <div class="searchBar">
+            <input placeholder="Buscar" type="text" class="inputSearch" />
+            <button fill="outline" class="searchButton">
+              <ion-icon name="search-outline" color="primary"></ion-icon>
+            </button>
+            <button class="filter">
+              <ion-icon name="filter-outline" slot="start"></ion-icon>
+              Filtrar
+            </button>
+          </div>
+        </div>
+      </ion-row>
+
+      <ion-row class="header">
+        <ion-col
+          *ngFor="let column of config.columns"
+          class="headerCol"
+          [style.flex]="column.flexValue || 1"
+          >{{ column.label }}</ion-col
+        >
+      </ion-row>
+
+      <ion-row *ngFor="let item of items" class="list">
+        <div
+          *ngFor="let column of config.columns"
+          [style.flex]="column.flexValue || 1"
+        >
+          <ng-container *ngIf="!column.isCustom">{{
+            item[column.property]
+          }}</ng-container>
+
+          <ng-container *ngIf="column.componentType === 'identifier'">
+            <app-column-cnpj-cpf
+              [identifier]="item[column.property]"
+            ></app-column-cnpj-cpf>
+          </ng-container>
+
+          <ng-container *ngIf="column.componentType === 'money'">
+            <app-column-money
+              [value]="item[column.property]"
+            ></app-column-money>
+          </ng-container>
+        </div>
+      </ion-row>
+    </ion-col>
+  </ion-row>
+</ion-grid>

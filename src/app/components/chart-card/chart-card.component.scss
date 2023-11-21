@@ -1,0 +1,27 @@
+ion-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--ion-color-white);
+    margin-left: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px;
+    height: 100px;
+  
+    span {
+      display: flex;
+      justify-content: flex-end;
+      font-weight: bolder;
+    }
+  
+    ion-card-content {
+      height: 75px;
+      width: 200px;
+    }
+  
+    ion-card-title {
+      font-weight: bolder;
+    }
+  }
