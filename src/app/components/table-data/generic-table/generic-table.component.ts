@@ -49,6 +49,10 @@ export class GenericTableComponent implements OnInit {
     return this.propertyDisplayNames[property as keyof typeof this.propertyDisplayNames];
   }  
 
+  onAddItem() {
+    console.log('add')
+  }
+
   ngOnChanges(changes: SimpleChanges) {
     if (changes['items']) {
       this.calculatePages();

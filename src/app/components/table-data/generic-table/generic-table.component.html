@@ -8,6 +8,13 @@
           [style.flex]="column.flexValue || 1"
           >{{ column.label }}</ion-col
         >
+        <span>
+          <ion-button
+            (click)="onAddItem()"
+            class="addItemBtn"
+            ><ion-icon name="add"></ion-icon
+          ></ion-button>
+        </span>
       </ion-row>
 
       <ion-row *ngFor="let item of displayedItems" class="list">
