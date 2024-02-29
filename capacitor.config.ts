@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'fideliza-agro-front',
+  appName: 'pontoPremia-front',
   webDir: 'www',
   server: {
     androidScheme: 'https'
